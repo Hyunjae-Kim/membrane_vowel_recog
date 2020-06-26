@@ -1,0 +1,37 @@
+[Training]mem_20.0_model2
+mem data shape  -  20.0 ms
+train set : torch.Size([5000, 10, 200]) torch.Size([5000, 5])
+test set : torch.Size([1500, 10, 200]) torch.Size([1500, 5])
+epoch 0 - train loss : 0.9479183  /  test loss : 1.0009102
+           train acc : 0.3262000  /  test acc : 0.2000000
+whole accuracy : [0. 0. 1. 0. 0.]
+epoch 10 - train loss : 0.3753315  /  test loss : 1.2699715
+           train acc : 0.8388000  /  test acc : 0.3900000
+whole accuracy : [0.06333333 0.         0.98666667 0.         0.9       ]
+epoch 20 - train loss : 0.1459477  /  test loss : 0.2690511
+           train acc : 0.9488000  /  test acc : 0.8360000
+whole accuracy : [0.98666667 0.68666667 1.         0.53333333 0.97333333]
+epoch 30 - train loss : 0.0554767  /  test loss : 0.2509457
+           train acc : 0.9892000  /  test acc : 0.8600000
+whole accuracy : [0.98666667 0.64666667 1.         0.70666667 0.96      ]
+epoch 40 - train loss : 0.0216155  /  test loss : 0.2980193
+           train acc : 0.9984000  /  test acc : 0.8573333
+whole accuracy : [0.99333333 0.64333333 1.         0.69       0.96      ]
+epoch 50 - train loss : 0.0102610  /  test loss : 0.3398875
+           train acc : 0.9998000  /  test acc : 0.8573333
+whole accuracy : [0.99333333 0.67333333 1.         0.65666667 0.96333333]
+epoch 60 - train loss : 0.0063583  /  test loss : 0.3677871
+           train acc : 0.9998000  /  test acc : 0.8573333
+whole accuracy : [0.99333333 0.66333333 1.         0.66333333 0.96666667]
+epoch 70 - train loss : 0.0047550  /  test loss : 0.3895886
+           train acc : 1.0000000  /  test acc : 0.8580000
+whole accuracy : [0.99333333 0.65333333 1.         0.67666667 0.96666667]
+epoch 80 - train loss : 0.0033159  /  test loss : 0.4037982
+           train acc : 1.0000000  /  test acc : 0.8586667
+whole accuracy : [0.99333333 0.66333333 1.         0.66       0.97666667]
+epoch 90 - train loss : 0.0025453  /  test loss : 0.4219760
+           train acc : 1.0000000  /  test acc : 0.8593333
+whole accuracy : [0.99333333 0.66333333 1.         0.66333333 0.97666667]
+epoch 100 - train loss : 0.0019943  /  test loss : 0.4276663
+           train acc : 1.0000000  /  test acc : 0.8606667
+whole accuracy : [0.99333333 0.66       1.         0.67       0.98      ]

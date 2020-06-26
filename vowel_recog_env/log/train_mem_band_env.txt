@@ -1,0 +1,2530 @@
+[Training]mem_band_env_20.0_model2
+mem_band_env data shape  -  20.0 ms
+train set : torch.Size([5000, 10, 200]) torch.Size([5000, 5])
+test set : torch.Size([1500, 10, 200]) torch.Size([1500, 5])
+epoch 0 - train loss : 0.6400765  /  test loss : 1.0125373
+           train acc : 0.6128000  /  test acc : 0.2000000
+@@@@@@@ save model : epoch 0
+epoch 10 - train loss : 0.0009979  /  test loss : 0.5022522
+           train acc : 1.0000000  /  test acc : 0.8466667
+epoch 20 - train loss : 0.0003429  /  test loss : 0.5435123
+           train acc : 1.0000000  /  test acc : 0.8573333
+epoch 30 - train loss : 0.0001914  /  test loss : 0.5646404
+           train acc : 1.0000000  /  test acc : 0.8573333
+epoch 40 - train loss : 0.0001314  /  test loss : 0.5854602
+           train acc : 1.0000000  /  test acc : 0.8566667
+epoch 50 - train loss : 0.0000788  /  test loss : 0.6086569
+           train acc : 1.0000000  /  test acc : 0.8586667
+@@@@@@@ save model : epoch 50
+epoch 60 - train loss : 0.0000578  /  test loss : 0.6254638
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 70 - train loss : 0.0000544  /  test loss : 0.6381773
+           train acc : 1.0000000  /  test acc : 0.8580000
+epoch 80 - train loss : 0.0000394  /  test loss : 0.6562906
+           train acc : 1.0000000  /  test acc : 0.8540000
+epoch 90 - train loss : 0.0000319  /  test loss : 0.6625658
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 100 - train loss : 0.0000265  /  test loss : 0.6612783
+           train acc : 1.0000000  /  test acc : 0.8580000
+@@@@@@@ save model : epoch 100
+epoch 110 - train loss : 0.0000256  /  test loss : 0.6638852
+           train acc : 1.0000000  /  test acc : 0.8573333
+epoch 120 - train loss : 0.0000231  /  test loss : 0.6832477
+           train acc : 1.0000000  /  test acc : 0.8566667
+epoch 130 - train loss : 0.0000251  /  test loss : 0.6883124
+           train acc : 1.0000000  /  test acc : 0.8566667
+epoch 140 - train loss : 0.0000150  /  test loss : 0.7064418
+           train acc : 1.0000000  /  test acc : 0.8573333
+epoch 150 - train loss : 0.0000145  /  test loss : 0.7078736
+           train acc : 1.0000000  /  test acc : 0.8540000
+@@@@@@@ save model : epoch 150
+epoch 160 - train loss : 0.0000146  /  test loss : 0.7114867
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 170 - train loss : 0.0000125  /  test loss : 0.7146330
+           train acc : 1.0000000  /  test acc : 0.8580000
+epoch 180 - train loss : 0.0000112  /  test loss : 0.7166994
+           train acc : 1.0000000  /  test acc : 0.8566667
+epoch 190 - train loss : 0.0000127  /  test loss : 0.7352316
+           train acc : 1.0000000  /  test acc : 0.8520000
+epoch 200 - train loss : 0.0000085  /  test loss : 0.7305830
+           train acc : 1.0000000  /  test acc : 0.8540000
+@@@@@@@ save model : epoch 200
+epoch 210 - train loss : 0.0000085  /  test loss : 0.7329230
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 220 - train loss : 0.0000076  /  test loss : 0.7318424
+           train acc : 1.0000000  /  test acc : 0.8540000
+epoch 230 - train loss : 0.0000068  /  test loss : 0.7325451
+           train acc : 1.0000000  /  test acc : 0.8593333
+epoch 240 - train loss : 0.0000087  /  test loss : 0.7471327
+           train acc : 1.0000000  /  test acc : 0.8506667
+epoch 250 - train loss : 0.0000078  /  test loss : 0.7440909
+           train acc : 1.0000000  /  test acc : 0.8546667
+@@@@@@@ save model : epoch 250
+epoch 260 - train loss : 0.0000066  /  test loss : 0.7497023
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 270 - train loss : 0.0000060  /  test loss : 0.7538472
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 280 - train loss : 0.0000055  /  test loss : 0.7565822
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 290 - train loss : 0.0000060  /  test loss : 0.7602149
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 300 - train loss : 0.0000065  /  test loss : 0.7669668
+           train acc : 1.0000000  /  test acc : 0.8540000
+@@@@@@@ save model : epoch 300
+epoch 310 - train loss : 0.0000059  /  test loss : 0.7743177
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 320 - train loss : 0.0000060  /  test loss : 0.7633467
+           train acc : 1.0000000  /  test acc : 0.8526667
+epoch 330 - train loss : 0.0000044  /  test loss : 0.7653061
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 340 - train loss : 0.0000047  /  test loss : 0.7684071
+           train acc : 1.0000000  /  test acc : 0.8540000
+epoch 350 - train loss : 0.0000041  /  test loss : 0.7582330
+           train acc : 1.0000000  /  test acc : 0.8546667
+@@@@@@@ save model : epoch 350
+epoch 360 - train loss : 0.0000051  /  test loss : 0.7621431
+           train acc : 1.0000000  /  test acc : 0.8566667
+epoch 370 - train loss : 0.0000042  /  test loss : 0.7607996
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 380 - train loss : 0.0000044  /  test loss : 0.7619939
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 390 - train loss : 0.0000055  /  test loss : 0.7728671
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 400 - train loss : 0.0000040  /  test loss : 0.7738292
+           train acc : 1.0000000  /  test acc : 0.8540000
+@@@@@@@ save model : epoch 400
+epoch 410 - train loss : 0.0000040  /  test loss : 0.7739636
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 420 - train loss : 0.0000036  /  test loss : 0.7827005
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 430 - train loss : 0.0000034  /  test loss : 0.7744640
+           train acc : 1.0000000  /  test acc : 0.8520000
+epoch 440 - train loss : 0.0000051  /  test loss : 0.7778139
+           train acc : 1.0000000  /  test acc : 0.8540000
+epoch 450 - train loss : 0.0000035  /  test loss : 0.7710781
+           train acc : 1.0000000  /  test acc : 0.8540000
+@@@@@@@ save model : epoch 450
+epoch 460 - train loss : 0.0000042  /  test loss : 0.7784223
+           train acc : 1.0000000  /  test acc : 0.8520000
+epoch 470 - train loss : 0.0000038  /  test loss : 0.7777543
+           train acc : 1.0000000  /  test acc : 0.8526667
+epoch 480 - train loss : 0.0000034  /  test loss : 0.7773873
+           train acc : 1.0000000  /  test acc : 0.8566667
+epoch 490 - train loss : 0.0000037  /  test loss : 0.7708706
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 500 - train loss : 0.0000039  /  test loss : 0.7770734
+           train acc : 1.0000000  /  test acc : 0.8546667
+@@@@@@@ save model : epoch 500
+epoch 510 - train loss : 0.0000035  /  test loss : 0.7714072
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 520 - train loss : 0.0000035  /  test loss : 0.7782336
+           train acc : 1.0000000  /  test acc : 0.8566667
+epoch 530 - train loss : 0.0000045  /  test loss : 0.7729148
+           train acc : 1.0000000  /  test acc : 0.8573333
+epoch 540 - train loss : 0.0000039  /  test loss : 0.7731649
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 550 - train loss : 0.0000032  /  test loss : 0.7782959
+           train acc : 1.0000000  /  test acc : 0.8553333
+@@@@@@@ save model : epoch 550
+epoch 560 - train loss : 0.0000039  /  test loss : 0.7758940
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 570 - train loss : 0.0000047  /  test loss : 0.7716609
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 580 - train loss : 0.0000039  /  test loss : 0.7773604
+           train acc : 1.0000000  /  test acc : 0.8526667
+epoch 590 - train loss : 0.0000039  /  test loss : 0.7827653
+           train acc : 1.0000000  /  test acc : 0.8506667
+epoch 600 - train loss : 0.0000032  /  test loss : 0.7969153
+           train acc : 1.0000000  /  test acc : 0.8506667
+@@@@@@@ save model : epoch 600
+epoch 610 - train loss : 0.0000037  /  test loss : 0.7825069
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 620 - train loss : 0.0000031  /  test loss : 0.7848007
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 630 - train loss : 0.0000031  /  test loss : 0.7925943
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 640 - train loss : 0.0000030  /  test loss : 0.7942955
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 650 - train loss : 0.0000028  /  test loss : 0.8051895
+           train acc : 1.0000000  /  test acc : 0.8560000
+@@@@@@@ save model : epoch 650
+epoch 660 - train loss : 0.0000027  /  test loss : 0.8016408
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 670 - train loss : 0.0000028  /  test loss : 0.8195089
+           train acc : 1.0000000  /  test acc : 0.8513333
+epoch 680 - train loss : 0.0000023  /  test loss : 0.8078392
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 690 - train loss : 0.0000018  /  test loss : 0.8210855
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 700 - train loss : 0.0000016  /  test loss : 0.8291628
+           train acc : 1.0000000  /  test acc : 0.8520000
+@@@@@@@ save model : epoch 700
+epoch 710 - train loss : 0.0000015  /  test loss : 0.8421989
+           train acc : 1.0000000  /  test acc : 0.8500000
+epoch 720 - train loss : 0.0000015  /  test loss : 0.8284307
+           train acc : 1.0000000  /  test acc : 0.8540000
+epoch 730 - train loss : 0.0000012  /  test loss : 0.8459617
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 740 - train loss : 0.0000012  /  test loss : 0.8550844
+           train acc : 1.0000000  /  test acc : 0.8526667
+epoch 750 - train loss : 0.0000011  /  test loss : 0.8475489
+           train acc : 1.0000000  /  test acc : 0.8513333
+@@@@@@@ save model : epoch 750
+epoch 760 - train loss : 0.0000010  /  test loss : 0.8661218
+           train acc : 1.0000000  /  test acc : 0.8526667
+epoch 770 - train loss : 0.0000009  /  test loss : 0.8767915
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 780 - train loss : 0.0000006  /  test loss : 0.8888530
+           train acc : 1.0000000  /  test acc : 0.8513333
+epoch 790 - train loss : 0.0000008  /  test loss : 0.8912983
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 800 - train loss : 0.0000005  /  test loss : 0.8883011
+           train acc : 1.0000000  /  test acc : 0.8546667
+@@@@@@@ save model : epoch 800
+epoch 810 - train loss : 0.0000006  /  test loss : 0.9021357
+           train acc : 1.0000000  /  test acc : 0.8526667
+epoch 820 - train loss : 0.0000006  /  test loss : 0.9052100
+           train acc : 1.0000000  /  test acc : 0.8540000
+epoch 830 - train loss : 0.0000004  /  test loss : 0.9164156
+           train acc : 1.0000000  /  test acc : 0.8526667
+epoch 840 - train loss : 0.8988152  /  test loss : 0.7452560
+           train acc : 0.4646000  /  test acc : 0.4893333
+epoch 850 - train loss : 0.6701071  /  test loss : 0.6762254
+           train acc : 0.6610000  /  test acc : 0.6260000
+@@@@@@@ save model : epoch 850
+epoch 860 - train loss : 0.5435655  /  test loss : 0.5521256
+           train acc : 0.7320000  /  test acc : 0.6980000
+epoch 870 - train loss : 0.4594310  /  test loss : 0.4617649
+           train acc : 0.7720000  /  test acc : 0.7520000
+epoch 880 - train loss : 0.4035142  /  test loss : 0.4078064
+           train acc : 0.7964000  /  test acc : 0.7866667
+epoch 890 - train loss : 0.3633210  /  test loss : 0.3762867
+           train acc : 0.8182000  /  test acc : 0.8213333
+epoch 900 - train loss : 0.3227802  /  test loss : 0.3482768
+           train acc : 0.8406000  /  test acc : 0.8406667
+@@@@@@@ save model : epoch 900
+epoch 910 - train loss : 0.2800176  /  test loss : 0.3163892
+           train acc : 0.8666000  /  test acc : 0.8480000
+epoch 920 - train loss : 0.2337487  /  test loss : 0.2913134
+           train acc : 0.8900000  /  test acc : 0.8560000
+epoch 930 - train loss : 0.1879360  /  test loss : 0.2767612
+           train acc : 0.9212000  /  test acc : 0.8546667
+epoch 940 - train loss : 0.1502861  /  test loss : 0.2770152
+           train acc : 0.9374000  /  test acc : 0.8586667
+epoch 950 - train loss : 0.1161011  /  test loss : 0.3446889
+           train acc : 0.9576000  /  test acc : 0.8120000
+@@@@@@@ save model : epoch 950
+epoch 960 - train loss : 0.0879620  /  test loss : 0.2555295
+           train acc : 0.9702000  /  test acc : 0.8746667
+epoch 970 - train loss : 0.0647264  /  test loss : 0.2404554
+           train acc : 0.9796000  /  test acc : 0.8900000
+epoch 980 - train loss : 0.0478356  /  test loss : 0.2543362
+           train acc : 0.9876000  /  test acc : 0.8793333
+epoch 990 - train loss : 0.0344072  /  test loss : 0.2546628
+           train acc : 0.9944000  /  test acc : 0.8733333
+epoch 1000 - train loss : 0.0258862  /  test loss : 0.2590360
+           train acc : 0.9960000  /  test acc : 0.8780000
+@@@@@@@ save model : epoch 1000
+training complete! - calculation time : 169.8315930366516   seconds
+
+
+[Training]mem_band_env_20.0_model2
+mem_band_env data shape  -  20.0 ms
+train set : torch.Size([5000, 10, 200]) torch.Size([5000, 5])
+test set : torch.Size([1500, 10, 200]) torch.Size([1500, 5])
+epoch 0 - train loss : 0.6350589  /  test loss : 1.0116423
+           train acc : 0.6164000  /  test acc : 0.2000000
+@@@@@@@ save model : epoch 0
+epoch 10 - train loss : 0.0010469  /  test loss : 0.4192818
+           train acc : 1.0000000  /  test acc : 0.8600000
+epoch 20 - train loss : 0.0003358  /  test loss : 0.4731837
+           train acc : 1.0000000  /  test acc : 0.8580000
+epoch 30 - train loss : 0.0001950  /  test loss : 0.4896620
+           train acc : 1.0000000  /  test acc : 0.8573333
+epoch 40 - train loss : 0.0001375  /  test loss : 0.5025527
+           train acc : 1.0000000  /  test acc : 0.8593333
+epoch 50 - train loss : 0.0000813  /  test loss : 0.5312386
+           train acc : 1.0000000  /  test acc : 0.8553333
+@@@@@@@ save model : epoch 50
+epoch 60 - train loss : 0.0000584  /  test loss : 0.5374382
+           train acc : 1.0000000  /  test acc : 0.8566667
+epoch 70 - train loss : 0.0000562  /  test loss : 0.5576646
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 80 - train loss : 0.0000389  /  test loss : 0.5550014
+           train acc : 1.0000000  /  test acc : 0.8580000
+epoch 90 - train loss : 0.0000320  /  test loss : 0.5638132
+           train acc : 1.0000000  /  test acc : 0.8573333
+epoch 100 - train loss : 0.0000266  /  test loss : 0.5635811
+           train acc : 1.0000000  /  test acc : 0.8593333
+@@@@@@@ save model : epoch 100
+epoch 110 - train loss : 0.0000252  /  test loss : 0.5731323
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 120 - train loss : 0.0000240  /  test loss : 0.5861623
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 130 - train loss : 0.0000241  /  test loss : 0.5920077
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 140 - train loss : 0.0000146  /  test loss : 0.6052362
+           train acc : 1.0000000  /  test acc : 0.8566667
+epoch 150 - train loss : 0.0000153  /  test loss : 0.6014241
+           train acc : 1.0000000  /  test acc : 0.8593333
+@@@@@@@ save model : epoch 150
+epoch 160 - train loss : 0.0000151  /  test loss : 0.6026110
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 170 - train loss : 0.0000128  /  test loss : 0.6102068
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 180 - train loss : 0.0000118  /  test loss : 0.5971501
+           train acc : 1.0000000  /  test acc : 0.8620000
+epoch 190 - train loss : 0.0000137  /  test loss : 0.6124264
+           train acc : 1.0000000  /  test acc : 0.8586667
+epoch 200 - train loss : 0.0000089  /  test loss : 0.6139040
+           train acc : 1.0000000  /  test acc : 0.8573333
+@@@@@@@ save model : epoch 200
+epoch 210 - train loss : 0.0000090  /  test loss : 0.6187044
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 220 - train loss : 0.0000076  /  test loss : 0.6187689
+           train acc : 1.0000000  /  test acc : 0.8580000
+epoch 230 - train loss : 0.0000068  /  test loss : 0.6243988
+           train acc : 1.0000000  /  test acc : 0.8526667
+epoch 240 - train loss : 0.0000085  /  test loss : 0.6256346
+           train acc : 1.0000000  /  test acc : 0.8573333
+epoch 250 - train loss : 0.0000074  /  test loss : 0.6287756
+           train acc : 1.0000000  /  test acc : 0.8553333
+@@@@@@@ save model : epoch 250
+epoch 260 - train loss : 0.0000061  /  test loss : 0.6250416
+           train acc : 1.0000000  /  test acc : 0.8580000
+epoch 270 - train loss : 0.0000061  /  test loss : 0.6365882
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 280 - train loss : 0.0000054  /  test loss : 0.6331209
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 290 - train loss : 0.0000059  /  test loss : 0.6360659
+           train acc : 1.0000000  /  test acc : 0.8573333
+epoch 300 - train loss : 0.0000060  /  test loss : 0.6441652
+           train acc : 1.0000000  /  test acc : 0.8573333
+@@@@@@@ save model : epoch 300
+epoch 310 - train loss : 0.0000060  /  test loss : 0.6466736
+           train acc : 1.0000000  /  test acc : 0.8586667
+epoch 320 - train loss : 0.0000060  /  test loss : 0.6416644
+           train acc : 1.0000000  /  test acc : 0.8580000
+epoch 330 - train loss : 0.0000045  /  test loss : 0.6495638
+           train acc : 1.0000000  /  test acc : 0.8540000
+epoch 340 - train loss : 0.0000048  /  test loss : 0.6485402
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 350 - train loss : 0.0000042  /  test loss : 0.6436759
+           train acc : 1.0000000  /  test acc : 0.8566667
+@@@@@@@ save model : epoch 350
+epoch 360 - train loss : 0.0000051  /  test loss : 0.6394225
+           train acc : 1.0000000  /  test acc : 0.8606667
+epoch 370 - train loss : 0.0000042  /  test loss : 0.6432083
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 380 - train loss : 0.0000041  /  test loss : 0.6407822
+           train acc : 1.0000000  /  test acc : 0.8580000
+epoch 390 - train loss : 0.0000054  /  test loss : 0.6481281
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 400 - train loss : 0.0000040  /  test loss : 0.6509491
+           train acc : 1.0000000  /  test acc : 0.8533333
+@@@@@@@ save model : epoch 400
+epoch 410 - train loss : 0.0000040  /  test loss : 0.6497418
+           train acc : 1.0000000  /  test acc : 0.8580000
+epoch 420 - train loss : 0.0000038  /  test loss : 0.6556244
+           train acc : 1.0000000  /  test acc : 0.8580000
+epoch 430 - train loss : 0.0000033  /  test loss : 0.6461040
+           train acc : 1.0000000  /  test acc : 0.8580000
+epoch 440 - train loss : 0.0000053  /  test loss : 0.6504838
+           train acc : 1.0000000  /  test acc : 0.8573333
+epoch 450 - train loss : 0.0000035  /  test loss : 0.6475291
+           train acc : 1.0000000  /  test acc : 0.8573333
+@@@@@@@ save model : epoch 450
+epoch 460 - train loss : 0.0000040  /  test loss : 0.6485746
+           train acc : 1.0000000  /  test acc : 0.8580000
+epoch 470 - train loss : 0.0000038  /  test loss : 0.6497229
+           train acc : 1.0000000  /  test acc : 0.8580000
+epoch 480 - train loss : 0.0000034  /  test loss : 0.6581029
+           train acc : 1.0000000  /  test acc : 0.8526667
+epoch 490 - train loss : 0.0000037  /  test loss : 0.6509757
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 500 - train loss : 0.0000040  /  test loss : 0.6474837
+           train acc : 1.0000000  /  test acc : 0.8600000
+@@@@@@@ save model : epoch 500
+epoch 510 - train loss : 0.0000036  /  test loss : 0.6422179
+           train acc : 1.0000000  /  test acc : 0.8593333
+epoch 520 - train loss : 0.0000035  /  test loss : 0.6560236
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 530 - train loss : 0.0000045  /  test loss : 0.6481096
+           train acc : 1.0000000  /  test acc : 0.8600000
+epoch 540 - train loss : 0.0000038  /  test loss : 0.6494005
+           train acc : 1.0000000  /  test acc : 0.8540000
+epoch 550 - train loss : 0.0000032  /  test loss : 0.6575813
+           train acc : 1.0000000  /  test acc : 0.8533333
+@@@@@@@ save model : epoch 550
+epoch 560 - train loss : 0.0000036  /  test loss : 0.6541617
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 570 - train loss : 0.0000048  /  test loss : 0.6472110
+           train acc : 1.0000000  /  test acc : 0.8566667
+epoch 580 - train loss : 0.0000036  /  test loss : 0.6489417
+           train acc : 1.0000000  /  test acc : 0.8580000
+epoch 590 - train loss : 0.0000038  /  test loss : 0.6500700
+           train acc : 1.0000000  /  test acc : 0.8593333
+epoch 600 - train loss : 0.0000034  /  test loss : 0.6636669
+           train acc : 1.0000000  /  test acc : 0.8566667
+@@@@@@@ save model : epoch 600
+epoch 610 - train loss : 0.0000036  /  test loss : 0.6558511
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 620 - train loss : 0.0000028  /  test loss : 0.6604988
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 630 - train loss : 0.0000030  /  test loss : 0.6642278
+           train acc : 1.0000000  /  test acc : 0.8526667
+epoch 640 - train loss : 0.0000030  /  test loss : 0.6721910
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 650 - train loss : 0.0000027  /  test loss : 0.6702459
+           train acc : 1.0000000  /  test acc : 0.8593333
+@@@@@@@ save model : epoch 650
+epoch 660 - train loss : 0.0000030  /  test loss : 0.6827710
+           train acc : 1.0000000  /  test acc : 0.8493333
+epoch 670 - train loss : 0.0000028  /  test loss : 0.6880262
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 680 - train loss : 0.0000024  /  test loss : 0.6787188
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 690 - train loss : 0.0000017  /  test loss : 0.6802041
+           train acc : 1.0000000  /  test acc : 0.8573333
+epoch 700 - train loss : 0.0000016  /  test loss : 0.6927223
+           train acc : 1.0000000  /  test acc : 0.8506667
+@@@@@@@ save model : epoch 700
+epoch 710 - train loss : 0.0000015  /  test loss : 0.6925921
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 720 - train loss : 0.0000014  /  test loss : 0.6867431
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 730 - train loss : 0.0000011  /  test loss : 0.6966796
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 740 - train loss : 0.0000011  /  test loss : 0.7080072
+           train acc : 1.0000000  /  test acc : 0.8540000
+epoch 750 - train loss : 0.0000010  /  test loss : 0.7015673
+           train acc : 1.0000000  /  test acc : 0.8560000
+@@@@@@@ save model : epoch 750
+epoch 760 - train loss : 0.0000010  /  test loss : 0.7180186
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 770 - train loss : 0.0000010  /  test loss : 0.7271858
+           train acc : 1.0000000  /  test acc : 0.8513333
+epoch 780 - train loss : 0.0000006  /  test loss : 0.7197645
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 790 - train loss : 0.0000008  /  test loss : 0.7373257
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 800 - train loss : 0.0000005  /  test loss : 0.7199872
+           train acc : 1.0000000  /  test acc : 0.8546667
+@@@@@@@ save model : epoch 800
+epoch 810 - train loss : 0.0000006  /  test loss : 0.7341423
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 820 - train loss : 0.0000006  /  test loss : 0.7316301
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 830 - train loss : 0.0000003  /  test loss : 0.7314800
+           train acc : 1.0000000  /  test acc : 0.8566667
+epoch 840 - train loss : 0.0000003  /  test loss : 0.7399547
+           train acc : 1.0000000  /  test acc : 0.8526667
+epoch 850 - train loss : 0.0000003  /  test loss : 0.7519188
+           train acc : 1.0000000  /  test acc : 0.8513333
+@@@@@@@ save model : epoch 850
+epoch 860 - train loss : 0.0000004  /  test loss : 0.7491248
+           train acc : 1.0000000  /  test acc : 0.8540000
+epoch 870 - train loss : 0.0000002  /  test loss : 0.7619687
+           train acc : 1.0000000  /  test acc : 0.8540000
+epoch 880 - train loss : 0.0000003  /  test loss : 0.7715565
+           train acc : 1.0000000  /  test acc : 0.8520000
+epoch 890 - train loss : 0.0000002  /  test loss : 0.7700038
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 900 - train loss : 0.0000002  /  test loss : 0.7918956
+           train acc : 1.0000000  /  test acc : 0.8500000
+@@@@@@@ save model : epoch 900
+epoch 910 - train loss : 0.0000001  /  test loss : 0.7901352
+           train acc : 1.0000000  /  test acc : 0.8520000
+epoch 920 - train loss : 0.0000001  /  test loss : 0.7880975
+           train acc : 1.0000000  /  test acc : 0.8506667
+epoch 930 - train loss : 0.0000001  /  test loss : 0.7891481
+           train acc : 1.0000000  /  test acc : 0.8540000
+epoch 940 - train loss : 0.0000002  /  test loss : 0.7832457
+           train acc : 1.0000000  /  test acc : 0.8513333
+epoch 950 - train loss : 0.0000001  /  test loss : 0.8120147
+           train acc : 1.0000000  /  test acc : 0.8486667
+@@@@@@@ save model : epoch 950
+epoch 960 - train loss : 0.0000001  /  test loss : 0.7847207
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 970 - train loss : 0.0000001  /  test loss : 0.8012124
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 980 - train loss : 0.0000001  /  test loss : 0.7984434
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 990 - train loss : 0.0000001  /  test loss : 0.8091757
+           train acc : 1.0000000  /  test acc : 0.8506667
+epoch 1000 - train loss : 0.0000001  /  test loss : 0.8082893
+           train acc : 1.0000000  /  test acc : 0.8540000
+@@@@@@@ save model : epoch 1000
+training complete! - calculation time : 170.18782258033752   seconds
+
+
+[Training]mem_band_env_20.0_model2
+mem_band_env data shape  -  20.0 ms
+train set : torch.Size([5000, 10, 200]) torch.Size([5000, 5])
+test set : torch.Size([1500, 10, 200]) torch.Size([1500, 5])
+epoch 0 - train loss : 0.6422553  /  test loss : 1.0100945
+           train acc : 0.6114000  /  test acc : 0.2000000
+@@@@@@@ save model : epoch 0
+epoch 10 - train loss : 0.0010566  /  test loss : 0.4200415
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 20 - train loss : 0.0003619  /  test loss : 0.4657044
+           train acc : 1.0000000  /  test acc : 0.8566667
+epoch 30 - train loss : 0.0002001  /  test loss : 0.4804628
+           train acc : 1.0000000  /  test acc : 0.8586667
+epoch 40 - train loss : 0.0001430  /  test loss : 0.4999813
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 50 - train loss : 0.0000857  /  test loss : 0.5127088
+           train acc : 1.0000000  /  test acc : 0.8573333
+@@@@@@@ save model : epoch 50
+epoch 60 - train loss : 0.0000592  /  test loss : 0.5295388
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 70 - train loss : 0.0000549  /  test loss : 0.5421988
+           train acc : 1.0000000  /  test acc : 0.8573333
+epoch 80 - train loss : 0.0000391  /  test loss : 0.5395296
+           train acc : 1.0000000  /  test acc : 0.8573333
+epoch 90 - train loss : 0.0000328  /  test loss : 0.5496005
+           train acc : 1.0000000  /  test acc : 0.8573333
+epoch 100 - train loss : 0.0000267  /  test loss : 0.5478781
+           train acc : 1.0000000  /  test acc : 0.8566667
+@@@@@@@ save model : epoch 100
+epoch 110 - train loss : 0.0000265  /  test loss : 0.5520344
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 120 - train loss : 0.0000243  /  test loss : 0.5674361
+           train acc : 1.0000000  /  test acc : 0.8540000
+epoch 130 - train loss : 0.0000267  /  test loss : 0.5679052
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 140 - train loss : 0.0000149  /  test loss : 0.5769560
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 150 - train loss : 0.0000146  /  test loss : 0.5841935
+           train acc : 1.0000000  /  test acc : 0.8580000
+@@@@@@@ save model : epoch 150
+epoch 160 - train loss : 0.0000155  /  test loss : 0.5877260
+           train acc : 1.0000000  /  test acc : 0.8566667
+epoch 170 - train loss : 0.0000130  /  test loss : 0.5954402
+           train acc : 1.0000000  /  test acc : 0.8566667
+epoch 180 - train loss : 0.0000118  /  test loss : 0.5896856
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 190 - train loss : 0.0000122  /  test loss : 0.5998117
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 200 - train loss : 0.0000084  /  test loss : 0.5922273
+           train acc : 1.0000000  /  test acc : 0.8573333
+@@@@@@@ save model : epoch 200
+epoch 210 - train loss : 0.0000091  /  test loss : 0.6023204
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 220 - train loss : 0.0000074  /  test loss : 0.5954715
+           train acc : 1.0000000  /  test acc : 0.8573333
+epoch 230 - train loss : 0.0000068  /  test loss : 0.5998974
+           train acc : 1.0000000  /  test acc : 0.8540000
+epoch 240 - train loss : 0.0000079  /  test loss : 0.6115267
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 250 - train loss : 0.0000078  /  test loss : 0.6094896
+           train acc : 1.0000000  /  test acc : 0.8546667
+@@@@@@@ save model : epoch 250
+epoch 260 - train loss : 0.0000063  /  test loss : 0.6099622
+           train acc : 1.0000000  /  test acc : 0.8573333
+epoch 270 - train loss : 0.0000061  /  test loss : 0.6159163
+           train acc : 1.0000000  /  test acc : 0.8526667
+epoch 280 - train loss : 0.0000054  /  test loss : 0.6216471
+           train acc : 1.0000000  /  test acc : 0.8566667
+epoch 290 - train loss : 0.0000062  /  test loss : 0.6205008
+           train acc : 1.0000000  /  test acc : 0.8573333
+epoch 300 - train loss : 0.0000059  /  test loss : 0.6207696
+           train acc : 1.0000000  /  test acc : 0.8566667
+@@@@@@@ save model : epoch 300
+epoch 310 - train loss : 0.0000058  /  test loss : 0.6215233
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 320 - train loss : 0.0000060  /  test loss : 0.6190867
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 330 - train loss : 0.0000045  /  test loss : 0.6255693
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 340 - train loss : 0.0000047  /  test loss : 0.6241578
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 350 - train loss : 0.0000043  /  test loss : 0.6201530
+           train acc : 1.0000000  /  test acc : 0.8560000
+@@@@@@@ save model : epoch 350
+epoch 360 - train loss : 0.0000049  /  test loss : 0.6215017
+           train acc : 1.0000000  /  test acc : 0.8580000
+epoch 370 - train loss : 0.0000042  /  test loss : 0.6242267
+           train acc : 1.0000000  /  test acc : 0.8566667
+epoch 380 - train loss : 0.0000041  /  test loss : 0.6280464
+           train acc : 1.0000000  /  test acc : 0.8566667
+epoch 390 - train loss : 0.0000053  /  test loss : 0.6252495
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 400 - train loss : 0.0000041  /  test loss : 0.6257074
+           train acc : 1.0000000  /  test acc : 0.8540000
+@@@@@@@ save model : epoch 400
+epoch 410 - train loss : 0.0000040  /  test loss : 0.6266146
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 420 - train loss : 0.0000038  /  test loss : 0.6315356
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 430 - train loss : 0.0000033  /  test loss : 0.6256634
+           train acc : 1.0000000  /  test acc : 0.8573333
+epoch 440 - train loss : 0.0000051  /  test loss : 0.6276730
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 450 - train loss : 0.0000035  /  test loss : 0.6264955
+           train acc : 1.0000000  /  test acc : 0.8533333
+@@@@@@@ save model : epoch 450
+epoch 460 - train loss : 0.0000041  /  test loss : 0.6287047
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 470 - train loss : 0.0000037  /  test loss : 0.6287031
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 480 - train loss : 0.0000035  /  test loss : 0.6272861
+           train acc : 1.0000000  /  test acc : 0.8573333
+epoch 490 - train loss : 0.0000036  /  test loss : 0.6306477
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 500 - train loss : 0.0000041  /  test loss : 0.6262809
+           train acc : 1.0000000  /  test acc : 0.8560000
+@@@@@@@ save model : epoch 500
+epoch 510 - train loss : 0.0000035  /  test loss : 0.6254550
+           train acc : 1.0000000  /  test acc : 0.8580000
+epoch 520 - train loss : 0.0000035  /  test loss : 0.6302511
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 530 - train loss : 0.0000045  /  test loss : 0.6278351
+           train acc : 1.0000000  /  test acc : 0.8566667
+epoch 540 - train loss : 0.0000037  /  test loss : 0.6254703
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 550 - train loss : 0.0000032  /  test loss : 0.6327521
+           train acc : 1.0000000  /  test acc : 0.8553333
+@@@@@@@ save model : epoch 550
+epoch 560 - train loss : 0.0000037  /  test loss : 0.6324055
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 570 - train loss : 0.0000045  /  test loss : 0.6285261
+           train acc : 1.0000000  /  test acc : 0.8573333
+epoch 580 - train loss : 0.0000036  /  test loss : 0.6305624
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 590 - train loss : 0.0000038  /  test loss : 0.6319402
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 600 - train loss : 0.0000032  /  test loss : 0.6408940
+           train acc : 1.0000000  /  test acc : 0.8520000
+@@@@@@@ save model : epoch 600
+epoch 610 - train loss : 0.0000038  /  test loss : 0.6329262
+           train acc : 1.0000000  /  test acc : 0.8566667
+epoch 620 - train loss : 0.0000030  /  test loss : 0.6374213
+           train acc : 1.0000000  /  test acc : 0.8566667
+epoch 630 - train loss : 0.0000030  /  test loss : 0.6367546
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 640 - train loss : 0.0000028  /  test loss : 0.6460833
+           train acc : 1.0000000  /  test acc : 0.8540000
+epoch 650 - train loss : 0.0000028  /  test loss : 0.6464537
+           train acc : 1.0000000  /  test acc : 0.8546667
+@@@@@@@ save model : epoch 650
+epoch 660 - train loss : 0.0000029  /  test loss : 0.6512552
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 670 - train loss : 0.0000027  /  test loss : 0.6609837
+           train acc : 1.0000000  /  test acc : 0.8520000
+epoch 680 - train loss : 0.0000023  /  test loss : 0.6499155
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 690 - train loss : 0.0000020  /  test loss : 0.6786895
+           train acc : 1.0000000  /  test acc : 0.8540000
+epoch 700 - train loss : 0.0000015  /  test loss : 0.6651132
+           train acc : 1.0000000  /  test acc : 0.8533333
+@@@@@@@ save model : epoch 700
+epoch 710 - train loss : 0.0000015  /  test loss : 0.6664254
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 720 - train loss : 0.0000014  /  test loss : 0.6569202
+           train acc : 1.0000000  /  test acc : 0.8566667
+epoch 730 - train loss : 0.0000012  /  test loss : 0.6597900
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 740 - train loss : 0.0000012  /  test loss : 0.6753030
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 750 - train loss : 0.0000011  /  test loss : 0.6765435
+           train acc : 1.0000000  /  test acc : 0.8560000
+@@@@@@@ save model : epoch 750
+epoch 760 - train loss : 0.0000009  /  test loss : 0.6800258
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 770 - train loss : 0.0000008  /  test loss : 0.6804739
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 780 - train loss : 0.0000006  /  test loss : 0.6903291
+           train acc : 1.0000000  /  test acc : 0.8566667
+epoch 790 - train loss : 0.0000008  /  test loss : 0.6979659
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 800 - train loss : 0.0000005  /  test loss : 0.6961328
+           train acc : 1.0000000  /  test acc : 0.8533333
+@@@@@@@ save model : epoch 800
+epoch 810 - train loss : 0.0000006  /  test loss : 0.6916531
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 820 - train loss : 0.0000005  /  test loss : 0.6976495
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 830 - train loss : 0.0000003  /  test loss : 0.7073681
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 840 - train loss : 0.0000003  /  test loss : 0.7046236
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 850 - train loss : 0.0000003  /  test loss : 0.7174897
+           train acc : 1.0000000  /  test acc : 0.8540000
+@@@@@@@ save model : epoch 850
+epoch 860 - train loss : 0.0000004  /  test loss : 0.7177328
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 870 - train loss : 0.0000002  /  test loss : 0.7147017
+           train acc : 1.0000000  /  test acc : 0.8526667
+epoch 880 - train loss : 0.0000002  /  test loss : 0.7236822
+           train acc : 1.0000000  /  test acc : 0.8526667
+epoch 890 - train loss : 0.0000002  /  test loss : 0.7239623
+           train acc : 1.0000000  /  test acc : 0.8540000
+epoch 900 - train loss : 0.0000001  /  test loss : 0.7381587
+           train acc : 1.0000000  /  test acc : 0.8486667
+@@@@@@@ save model : epoch 900
+epoch 910 - train loss : 0.0000001  /  test loss : 0.7238735
+           train acc : 1.0000000  /  test acc : 0.8540000
+epoch 920 - train loss : 0.0000001  /  test loss : 0.7364006
+           train acc : 1.0000000  /  test acc : 0.8520000
+epoch 930 - train loss : 0.0000001  /  test loss : 0.7362602
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 940 - train loss : 0.0000002  /  test loss : 0.7388326
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 950 - train loss : 0.0000001  /  test loss : 0.7534669
+           train acc : 1.0000000  /  test acc : 0.8500000
+@@@@@@@ save model : epoch 950
+epoch 960 - train loss : 0.0000001  /  test loss : 0.7354779
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 970 - train loss : 0.0000001  /  test loss : 0.7524009
+           train acc : 1.0000000  /  test acc : 0.8526667
+epoch 980 - train loss : 0.0000001  /  test loss : 0.7310774
+           train acc : 1.0000000  /  test acc : 0.8573333
+epoch 990 - train loss : 0.0000001  /  test loss : 0.7571815
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 1000 - train loss : 0.0000001  /  test loss : 0.7491911
+           train acc : 1.0000000  /  test acc : 0.8553333
+@@@@@@@ save model : epoch 1000
+training complete! - calculation time : 170.85944867134094   seconds
+
+
+[Training]mem_band_env_20.0_model2
+mem_band_env data shape  -  20.0 ms
+train set : torch.Size([5000, 10, 200]) torch.Size([5000, 5])
+test set : torch.Size([1500, 10, 200]) torch.Size([1500, 5])
+epoch 0 - train loss : 0.5933162  /  test loss : 1.0095578
+           train acc : 0.6562000  /  test acc : 0.2000000
+@@@@@@@ save model : epoch 0
+epoch 10 - train loss : 0.0011864  /  test loss : 0.5002386
+           train acc : 1.0000000  /  test acc : 0.8500000
+epoch 20 - train loss : 0.0003803  /  test loss : 0.5128649
+           train acc : 1.0000000  /  test acc : 0.8660000
+epoch 30 - train loss : 0.0002037  /  test loss : 0.5416731
+           train acc : 1.0000000  /  test acc : 0.8613333
+epoch 40 - train loss : 0.0001470  /  test loss : 0.5742358
+           train acc : 1.0000000  /  test acc : 0.8606667
+epoch 50 - train loss : 0.0000923  /  test loss : 0.5910429
+           train acc : 1.0000000  /  test acc : 0.8606667
+@@@@@@@ save model : epoch 50
+epoch 60 - train loss : 0.0000622  /  test loss : 0.5979280
+           train acc : 1.0000000  /  test acc : 0.8586667
+epoch 70 - train loss : 0.0000585  /  test loss : 0.6274654
+           train acc : 1.0000000  /  test acc : 0.8606667
+epoch 80 - train loss : 0.0000425  /  test loss : 0.6254667
+           train acc : 1.0000000  /  test acc : 0.8606667
+epoch 90 - train loss : 0.0000341  /  test loss : 0.6345309
+           train acc : 1.0000000  /  test acc : 0.8586667
+epoch 100 - train loss : 0.0000280  /  test loss : 0.6527459
+           train acc : 1.0000000  /  test acc : 0.8593333
+@@@@@@@ save model : epoch 100
+epoch 110 - train loss : 0.0000273  /  test loss : 0.6669882
+           train acc : 1.0000000  /  test acc : 0.8600000
+epoch 120 - train loss : 0.0000258  /  test loss : 0.6697788
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 130 - train loss : 0.0000278  /  test loss : 0.6761090
+           train acc : 1.0000000  /  test acc : 0.8573333
+epoch 140 - train loss : 0.0000156  /  test loss : 0.6833322
+           train acc : 1.0000000  /  test acc : 0.8566667
+epoch 150 - train loss : 0.0000148  /  test loss : 0.6861132
+           train acc : 1.0000000  /  test acc : 0.8553333
+@@@@@@@ save model : epoch 150
+epoch 160 - train loss : 0.0000161  /  test loss : 0.6904410
+           train acc : 1.0000000  /  test acc : 0.8580000
+epoch 170 - train loss : 0.0000142  /  test loss : 0.6998202
+           train acc : 1.0000000  /  test acc : 0.8580000
+epoch 180 - train loss : 0.0000163  /  test loss : 0.7008797
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 190 - train loss : 0.0000127  /  test loss : 0.7020467
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 200 - train loss : 0.0000086  /  test loss : 0.7134211
+           train acc : 1.0000000  /  test acc : 0.8573333
+@@@@@@@ save model : epoch 200
+epoch 210 - train loss : 0.0000092  /  test loss : 0.7307060
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 220 - train loss : 0.0000080  /  test loss : 0.7274081
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 230 - train loss : 0.0000070  /  test loss : 0.7266141
+           train acc : 1.0000000  /  test acc : 0.8573333
+epoch 240 - train loss : 0.0000081  /  test loss : 0.7268891
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 250 - train loss : 0.0000081  /  test loss : 0.7281150
+           train acc : 1.0000000  /  test acc : 0.8546667
+@@@@@@@ save model : epoch 250
+epoch 260 - train loss : 0.0000065  /  test loss : 0.7425674
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 270 - train loss : 0.0000060  /  test loss : 0.7359283
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 280 - train loss : 0.0000051  /  test loss : 0.7429865
+           train acc : 1.0000000  /  test acc : 0.8566667
+epoch 290 - train loss : 0.0000054  /  test loss : 0.7544803
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 300 - train loss : 0.0000064  /  test loss : 0.7607349
+           train acc : 1.0000000  /  test acc : 0.8520000
+@@@@@@@ save model : epoch 300
+epoch 310 - train loss : 0.0000059  /  test loss : 0.7557995
+           train acc : 1.0000000  /  test acc : 0.8540000
+epoch 320 - train loss : 0.0000060  /  test loss : 0.7535703
+           train acc : 1.0000000  /  test acc : 0.8540000
+epoch 330 - train loss : 0.0000044  /  test loss : 0.7651672
+           train acc : 1.0000000  /  test acc : 0.8506667
+epoch 340 - train loss : 0.0000046  /  test loss : 0.7562610
+           train acc : 1.0000000  /  test acc : 0.8506667
+epoch 350 - train loss : 0.0000045  /  test loss : 0.7779384
+           train acc : 1.0000000  /  test acc : 0.8520000
+@@@@@@@ save model : epoch 350
+epoch 360 - train loss : 0.0000056  /  test loss : 0.7567833
+           train acc : 1.0000000  /  test acc : 0.8566667
+epoch 370 - train loss : 0.0000042  /  test loss : 0.7653418
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 380 - train loss : 0.0000043  /  test loss : 0.7608108
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 390 - train loss : 0.0000053  /  test loss : 0.7665337
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 400 - train loss : 0.0000041  /  test loss : 0.7691366
+           train acc : 1.0000000  /  test acc : 0.8560000
+@@@@@@@ save model : epoch 400
+epoch 410 - train loss : 0.0000036  /  test loss : 0.7671801
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 420 - train loss : 0.0000040  /  test loss : 0.7701784
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 430 - train loss : 0.0000033  /  test loss : 0.7711525
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 440 - train loss : 0.0000054  /  test loss : 0.7681556
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 450 - train loss : 0.0000036  /  test loss : 0.7698861
+           train acc : 1.0000000  /  test acc : 0.8546667
+@@@@@@@ save model : epoch 450
+epoch 460 - train loss : 0.0000044  /  test loss : 0.7669440
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 470 - train loss : 0.0000037  /  test loss : 0.7677369
+           train acc : 1.0000000  /  test acc : 0.8533333
+epoch 480 - train loss : 0.0000037  /  test loss : 0.7758917
+           train acc : 1.0000000  /  test acc : 0.8566667
+epoch 490 - train loss : 0.0000036  /  test loss : 0.7758674
+           train acc : 1.0000000  /  test acc : 0.8593333
+epoch 500 - train loss : 0.0000040  /  test loss : 0.7782268
+           train acc : 1.0000000  /  test acc : 0.8533333
+@@@@@@@ save model : epoch 500
+epoch 510 - train loss : 0.0000035  /  test loss : 0.7741534
+           train acc : 1.0000000  /  test acc : 0.8540000
+epoch 520 - train loss : 0.0000046  /  test loss : 0.7769390
+           train acc : 1.0000000  /  test acc : 0.8540000
+epoch 530 - train loss : 0.0000044  /  test loss : 0.7750112
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 540 - train loss : 0.0000040  /  test loss : 0.7654164
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 550 - train loss : 0.0000032  /  test loss : 0.7769262
+           train acc : 1.0000000  /  test acc : 0.8553333
+@@@@@@@ save model : epoch 550
+epoch 560 - train loss : 0.0000035  /  test loss : 0.7712597
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 570 - train loss : 0.0000043  /  test loss : 0.7730803
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 580 - train loss : 0.0000035  /  test loss : 0.7712338
+           train acc : 1.0000000  /  test acc : 0.8553333
+epoch 590 - train loss : 0.0000040  /  test loss : 0.7676763
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 600 - train loss : 0.0000036  /  test loss : 0.7803821
+           train acc : 1.0000000  /  test acc : 0.8533333
+@@@@@@@ save model : epoch 600
+epoch 610 - train loss : 0.0000038  /  test loss : 0.7838448
+           train acc : 1.0000000  /  test acc : 0.8600000
+epoch 620 - train loss : 0.0000029  /  test loss : 0.7945988
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 630 - train loss : 0.0000030  /  test loss : 0.7951875
+           train acc : 1.0000000  /  test acc : 0.8586667
+epoch 640 - train loss : 0.0000030  /  test loss : 0.7701042
+           train acc : 1.0000000  /  test acc : 0.8566667
+epoch 650 - train loss : 0.0000029  /  test loss : 0.7921536
+           train acc : 1.0000000  /  test acc : 0.8606667
+@@@@@@@ save model : epoch 650
+epoch 660 - train loss : 0.0000028  /  test loss : 0.8055216
+           train acc : 1.0000000  /  test acc : 0.8593333
+epoch 670 - train loss : 0.0000029  /  test loss : 0.8153391
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 680 - train loss : 0.0000028  /  test loss : 0.8134488
+           train acc : 1.0000000  /  test acc : 0.8586667
+epoch 690 - train loss : 0.0000019  /  test loss : 0.8098295
+           train acc : 1.0000000  /  test acc : 0.8593333
+epoch 700 - train loss : 0.0000015  /  test loss : 0.8145067
+           train acc : 1.0000000  /  test acc : 0.8593333
+@@@@@@@ save model : epoch 700
+epoch 710 - train loss : 0.0000016  /  test loss : 0.8241722
+           train acc : 1.0000000  /  test acc : 0.8540000
+epoch 720 - train loss : 0.0000014  /  test loss : 0.8334196
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 730 - train loss : 0.0000012  /  test loss : 0.8347413
+           train acc : 1.0000000  /  test acc : 0.8560000
+epoch 740 - train loss : 0.0000013  /  test loss : 0.8577993
+           train acc : 1.0000000  /  test acc : 0.8600000
+epoch 750 - train loss : 0.0000011  /  test loss : 0.8722969
+           train acc : 1.0000000  /  test acc : 0.8633333
+@@@@@@@ save model : epoch 750
+epoch 760 - train loss : 0.0000009  /  test loss : 0.8754406
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 770 - train loss : 0.0000009  /  test loss : 0.8720197
+           train acc : 1.0000000  /  test acc : 0.8526667
+epoch 780 - train loss : 0.0000006  /  test loss : 0.8967240
+           train acc : 1.0000000  /  test acc : 0.8520000
+epoch 790 - train loss : 0.0000008  /  test loss : 0.8977382
+           train acc : 1.0000000  /  test acc : 0.8593333
+epoch 800 - train loss : 0.0000005  /  test loss : 0.9113890
+           train acc : 1.0000000  /  test acc : 0.8533333
+@@@@@@@ save model : epoch 800
+epoch 810 - train loss : 0.0000006  /  test loss : 0.9270562
+           train acc : 1.0000000  /  test acc : 0.8520000
+epoch 820 - train loss : 0.0000005  /  test loss : 0.9302979
+           train acc : 1.0000000  /  test acc : 0.8526667
+epoch 830 - train loss : 0.0000003  /  test loss : 0.9370883
+           train acc : 1.0000000  /  test acc : 0.8546667
+epoch 840 - train loss : 0.0000003  /  test loss : 0.9438086
+           train acc : 1.0000000  /  test acc : 0.8540000
+epoch 850 - train loss : 0.0000003  /  test loss : 0.9521297
+           train acc : 1.0000000  /  test acc : 0.8526667
+@@@@@@@ save model : epoch 850
+epoch 860 - train loss : 0.1512276  /  test loss : 0.2912095
+           train acc : 0.9252000  /  test acc : 0.8760000
+epoch 870 - train loss : 0.0267493  /  test loss : 0.3705265
+           train acc : 0.9948000  /  test acc : 0.8786667
+epoch 880 - train loss : 0.0080931  /  test loss : 0.4505272
+           train acc : 0.9994000  /  test acc : 0.8740000
+epoch 890 - train loss : 0.0037207  /  test loss : 0.4958630
+           train acc : 1.0000000  /  test acc : 0.8706667
+epoch 900 - train loss : 0.0021145  /  test loss : 0.5221278
+           train acc : 1.0000000  /  test acc : 0.8680000
+@@@@@@@ save model : epoch 900
+epoch 910 - train loss : 0.0013963  /  test loss : 0.5609298
+           train acc : 1.0000000  /  test acc : 0.8666667
+epoch 920 - train loss : 0.0011575  /  test loss : 0.5592114
+           train acc : 1.0000000  /  test acc : 0.8706667
+epoch 930 - train loss : 0.0008274  /  test loss : 0.5907993
+           train acc : 1.0000000  /  test acc : 0.8680000
+epoch 940 - train loss : 0.0008379  /  test loss : 0.6042240
+           train acc : 1.0000000  /  test acc : 0.8653333
+epoch 950 - train loss : 0.0006743  /  test loss : 0.6102912
+           train acc : 1.0000000  /  test acc : 0.8660000
+@@@@@@@ save model : epoch 950
+epoch 960 - train loss : 0.0006035  /  test loss : 0.6570986
+           train acc : 1.0000000  /  test acc : 0.8600000
+epoch 970 - train loss : 0.0004344  /  test loss : 0.6497352
+           train acc : 1.0000000  /  test acc : 0.8633333
+epoch 980 - train loss : 0.0004061  /  test loss : 0.6784626
+           train acc : 1.0000000  /  test acc : 0.8600000
+epoch 990 - train loss : 0.0003335  /  test loss : 0.6674300
+           train acc : 1.0000000  /  test acc : 0.8606667
+epoch 1000 - train loss : 0.0002815  /  test loss : 0.6828538
+           train acc : 1.0000000  /  test acc : 0.8606667
+@@@@@@@ save model : epoch 1000
+training complete! - calculation time : 172.18029403686523   seconds
+
+
+[Training]mem_band_env_20.0_model2
+mem_band_env data shape  -  20.0 ms
+train set : torch.Size([5000, 10, 200]) torch.Size([5000, 5])
+test set : torch.Size([1500, 10, 200]) torch.Size([1500, 5])
+epoch 0 - train loss : 0.5192293  /  test loss : 1.0161602
+           train acc : 0.6976000  /  test acc : 0.2000000
+@@@@@@@ save model : epoch 0
+epoch 10 - train loss : 0.0012272  /  test loss : 0.4285460
+           train acc : 1.0000000  /  test acc : 0.8820000
+epoch 20 - train loss : 0.0003740  /  test loss : 0.4832984
+           train acc : 1.0000000  /  test acc : 0.8900000
+epoch 30 - train loss : 0.0002118  /  test loss : 0.5166719
+           train acc : 1.0000000  /  test acc : 0.8880000
+epoch 40 - train loss : 0.0001399  /  test loss : 0.5134532
+           train acc : 1.0000000  /  test acc : 0.8886667
+epoch 50 - train loss : 0.0000875  /  test loss : 0.5469617
+           train acc : 1.0000000  /  test acc : 0.8926667
+@@@@@@@ save model : epoch 50
+epoch 60 - train loss : 0.0000595  /  test loss : 0.5622710
+           train acc : 1.0000000  /  test acc : 0.8920000
+epoch 70 - train loss : 0.0000649  /  test loss : 0.5759136
+           train acc : 1.0000000  /  test acc : 0.8880000
+epoch 80 - train loss : 0.0000403  /  test loss : 0.5853906
+           train acc : 1.0000000  /  test acc : 0.8933333
+epoch 90 - train loss : 0.0000331  /  test loss : 0.5814932
+           train acc : 1.0000000  /  test acc : 0.8966667
+epoch 100 - train loss : 0.0000271  /  test loss : 0.5927504
+           train acc : 1.0000000  /  test acc : 0.8946667
+@@@@@@@ save model : epoch 100
+epoch 110 - train loss : 0.0000262  /  test loss : 0.6027825
+           train acc : 1.0000000  /  test acc : 0.8926667
+epoch 120 - train loss : 0.0000228  /  test loss : 0.6061952
+           train acc : 1.0000000  /  test acc : 0.8926667
+epoch 130 - train loss : 0.0000257  /  test loss : 0.6096800
+           train acc : 1.0000000  /  test acc : 0.8933333
+epoch 140 - train loss : 0.0000149  /  test loss : 0.6204481
+           train acc : 1.0000000  /  test acc : 0.8933333
+epoch 150 - train loss : 0.0000140  /  test loss : 0.6254508
+           train acc : 1.0000000  /  test acc : 0.8953333
+@@@@@@@ save model : epoch 150
+epoch 160 - train loss : 0.0000146  /  test loss : 0.6302637
+           train acc : 1.0000000  /  test acc : 0.8946667
+epoch 170 - train loss : 0.0000125  /  test loss : 0.6368807
+           train acc : 1.0000000  /  test acc : 0.8926667
+epoch 180 - train loss : 0.0000200  /  test loss : 0.6205809
+           train acc : 1.0000000  /  test acc : 0.8953333
+epoch 190 - train loss : 0.0000115  /  test loss : 0.6317044
+           train acc : 1.0000000  /  test acc : 0.8980000
+epoch 200 - train loss : 0.0000083  /  test loss : 0.6413976
+           train acc : 1.0000000  /  test acc : 0.8953333
+@@@@@@@ save model : epoch 200
+epoch 210 - train loss : 0.0000091  /  test loss : 0.6439192
+           train acc : 1.0000000  /  test acc : 0.8933333
+epoch 220 - train loss : 0.0000075  /  test loss : 0.6503222
+           train acc : 1.0000000  /  test acc : 0.8940000
+epoch 230 - train loss : 0.0000064  /  test loss : 0.6570574
+           train acc : 1.0000000  /  test acc : 0.8926667
+epoch 240 - train loss : 0.0000082  /  test loss : 0.6527775
+           train acc : 1.0000000  /  test acc : 0.8960000
+epoch 250 - train loss : 0.0000081  /  test loss : 0.6542154
+           train acc : 1.0000000  /  test acc : 0.8940000
+@@@@@@@ save model : epoch 250
+epoch 260 - train loss : 0.0000061  /  test loss : 0.6547381
+           train acc : 1.0000000  /  test acc : 0.8960000
+epoch 270 - train loss : 0.0000061  /  test loss : 0.6607823
+           train acc : 1.0000000  /  test acc : 0.8920000
+epoch 280 - train loss : 0.0000052  /  test loss : 0.6626428
+           train acc : 1.0000000  /  test acc : 0.8966667
+epoch 290 - train loss : 0.0000056  /  test loss : 0.6648706
+           train acc : 1.0000000  /  test acc : 0.8973333
+epoch 300 - train loss : 0.0000060  /  test loss : 0.6690903
+           train acc : 1.0000000  /  test acc : 0.8953333
+@@@@@@@ save model : epoch 300
+epoch 310 - train loss : 0.0000056  /  test loss : 0.6674872
+           train acc : 1.0000000  /  test acc : 0.8933333
+epoch 320 - train loss : 0.0000061  /  test loss : 0.6747762
+           train acc : 1.0000000  /  test acc : 0.8953333
+epoch 330 - train loss : 0.0000042  /  test loss : 0.6769851
+           train acc : 1.0000000  /  test acc : 0.8960000
+epoch 340 - train loss : 0.0000043  /  test loss : 0.6708133
+           train acc : 1.0000000  /  test acc : 0.8960000
+epoch 350 - train loss : 0.0000043  /  test loss : 0.6813307
+           train acc : 1.0000000  /  test acc : 0.8940000
+@@@@@@@ save model : epoch 350
+epoch 360 - train loss : 0.0000050  /  test loss : 0.6800978
+           train acc : 1.0000000  /  test acc : 0.8953333
+epoch 370 - train loss : 0.0000041  /  test loss : 0.6794190
+           train acc : 1.0000000  /  test acc : 0.8953333
+epoch 380 - train loss : 0.0000042  /  test loss : 0.6868962
+           train acc : 1.0000000  /  test acc : 0.8960000
+epoch 390 - train loss : 0.0000051  /  test loss : 0.6864407
+           train acc : 1.0000000  /  test acc : 0.8960000
+epoch 400 - train loss : 0.0000040  /  test loss : 0.6867926
+           train acc : 1.0000000  /  test acc : 0.8926667
+@@@@@@@ save model : epoch 400
+epoch 410 - train loss : 0.0000035  /  test loss : 0.6823327
+           train acc : 1.0000000  /  test acc : 0.8953333
+epoch 420 - train loss : 0.0000039  /  test loss : 0.6906901
+           train acc : 1.0000000  /  test acc : 0.8973333
+epoch 430 - train loss : 0.0000033  /  test loss : 0.6952265
+           train acc : 1.0000000  /  test acc : 0.8966667
+epoch 440 - train loss : 0.0000046  /  test loss : 0.6841753
+           train acc : 1.0000000  /  test acc : 0.8960000
+epoch 450 - train loss : 0.0000034  /  test loss : 0.6868608
+           train acc : 1.0000000  /  test acc : 0.8953333
+@@@@@@@ save model : epoch 450
+epoch 460 - train loss : 0.0000044  /  test loss : 0.6870075
+           train acc : 1.0000000  /  test acc : 0.8986667
+epoch 470 - train loss : 0.0000038  /  test loss : 0.6854653
+           train acc : 1.0000000  /  test acc : 0.8953333
+epoch 480 - train loss : 0.0000033  /  test loss : 0.7015460
+           train acc : 1.0000000  /  test acc : 0.8940000
+epoch 490 - train loss : 0.0000034  /  test loss : 0.6997339
+           train acc : 1.0000000  /  test acc : 0.8920000
+epoch 500 - train loss : 0.0000039  /  test loss : 0.6960956
+           train acc : 1.0000000  /  test acc : 0.8973333
+@@@@@@@ save model : epoch 500
+epoch 510 - train loss : 0.0000032  /  test loss : 0.6926540
+           train acc : 1.0000000  /  test acc : 0.8973333
+epoch 520 - train loss : 0.0000032  /  test loss : 0.6967618
+           train acc : 1.0000000  /  test acc : 0.8946667
+epoch 530 - train loss : 0.0000046  /  test loss : 0.6930390
+           train acc : 1.0000000  /  test acc : 0.8966667
+epoch 540 - train loss : 0.0000035  /  test loss : 0.6866974
+           train acc : 1.0000000  /  test acc : 0.8940000
+epoch 550 - train loss : 0.0000033  /  test loss : 0.6918032
+           train acc : 1.0000000  /  test acc : 0.8940000
+@@@@@@@ save model : epoch 550
+epoch 560 - train loss : 0.0000035  /  test loss : 0.6909080
+           train acc : 1.0000000  /  test acc : 0.8953333
+epoch 570 - train loss : 0.0000041  /  test loss : 0.6951562
+           train acc : 1.0000000  /  test acc : 0.8953333
+epoch 580 - train loss : 0.0000035  /  test loss : 0.6906774
+           train acc : 1.0000000  /  test acc : 0.8960000
+epoch 590 - train loss : 0.0000039  /  test loss : 0.6867064
+           train acc : 1.0000000  /  test acc : 0.8980000
+epoch 600 - train loss : 0.0000032  /  test loss : 0.6930571
+           train acc : 1.0000000  /  test acc : 0.8940000
+@@@@@@@ save model : epoch 600
+epoch 610 - train loss : 0.0000036  /  test loss : 0.7128327
+           train acc : 1.0000000  /  test acc : 0.8933333
+epoch 620 - train loss : 0.0000029  /  test loss : 0.7098182
+           train acc : 1.0000000  /  test acc : 0.8940000
+epoch 630 - train loss : 0.0000033  /  test loss : 0.7069576
+           train acc : 1.0000000  /  test acc : 0.8933333
+epoch 640 - train loss : 0.0000025  /  test loss : 0.7109932
+           train acc : 1.0000000  /  test acc : 0.8946667
+epoch 650 - train loss : 0.0000027  /  test loss : 0.7184148
+           train acc : 1.0000000  /  test acc : 0.8960000
+@@@@@@@ save model : epoch 650
+epoch 660 - train loss : 0.0000027  /  test loss : 0.7242147
+           train acc : 1.0000000  /  test acc : 0.8926667
+epoch 670 - train loss : 0.0202191  /  test loss : 0.5196095
+           train acc : 0.9920000  /  test acc : 0.8906667
+epoch 680 - train loss : 0.0001034  /  test loss : 0.6311852
+           train acc : 1.0000000  /  test acc : 0.8873333
+epoch 690 - train loss : 0.0000342  /  test loss : 0.6396956
+           train acc : 1.0000000  /  test acc : 0.8906667
+epoch 700 - train loss : 0.0000238  /  test loss : 0.6598014
+           train acc : 1.0000000  /  test acc : 0.8873333
+@@@@@@@ save model : epoch 700
+epoch 710 - train loss : 0.0000185  /  test loss : 0.6700098
+           train acc : 1.0000000  /  test acc : 0.8880000
+epoch 720 - train loss : 0.0000148  /  test loss : 0.6800142
+           train acc : 1.0000000  /  test acc : 0.8860000
+epoch 730 - train loss : 0.0000123  /  test loss : 0.6912837
+           train acc : 1.0000000  /  test acc : 0.8886667
+epoch 740 - train loss : 0.0000116  /  test loss : 0.7105438
+           train acc : 1.0000000  /  test acc : 0.8873333
+epoch 750 - train loss : 0.0000113  /  test loss : 0.7222298
+           train acc : 1.0000000  /  test acc : 0.8866667
+@@@@@@@ save model : epoch 750
+epoch 760 - train loss : 0.0000078  /  test loss : 0.7366682
+           train acc : 1.0000000  /  test acc : 0.8860000
+epoch 770 - train loss : 0.0000065  /  test loss : 0.7387550
+           train acc : 1.0000000  /  test acc : 0.8846667
+epoch 780 - train loss : 0.0000045  /  test loss : 0.7507240
+           train acc : 1.0000000  /  test acc : 0.8880000
+epoch 790 - train loss : 0.0000069  /  test loss : 0.7585682
+           train acc : 1.0000000  /  test acc : 0.8880000
+epoch 800 - train loss : 0.0000035  /  test loss : 0.7679495
+           train acc : 1.0000000  /  test acc : 0.8840000
+@@@@@@@ save model : epoch 800
+epoch 810 - train loss : 0.0000037  /  test loss : 0.7641134
+           train acc : 1.0000000  /  test acc : 0.8860000
+epoch 820 - train loss : 0.0000039  /  test loss : 0.7707796
+           train acc : 1.0000000  /  test acc : 0.8880000
+epoch 830 - train loss : 0.0000026  /  test loss : 0.7775920
+           train acc : 1.0000000  /  test acc : 0.8893333
+epoch 840 - train loss : 0.0000024  /  test loss : 0.7940066
+           train acc : 1.0000000  /  test acc : 0.8840000
+epoch 850 - train loss : 0.0000025  /  test loss : 0.7915992
+           train acc : 1.0000000  /  test acc : 0.8893333
+@@@@@@@ save model : epoch 850
+epoch 860 - train loss : 0.0000029  /  test loss : 0.8001693
+           train acc : 1.0000000  /  test acc : 0.8866667
+epoch 870 - train loss : 0.0000018  /  test loss : 0.8155282
+           train acc : 1.0000000  /  test acc : 0.8880000
+epoch 880 - train loss : 0.0000019  /  test loss : 0.8184880
+           train acc : 1.0000000  /  test acc : 0.8880000
+epoch 890 - train loss : 0.0000024  /  test loss : 0.8274128
+           train acc : 1.0000000  /  test acc : 0.8866667
+epoch 900 - train loss : 0.0000010  /  test loss : 0.8281368
+           train acc : 1.0000000  /  test acc : 0.8880000
+@@@@@@@ save model : epoch 900
+epoch 910 - train loss : 0.0000011  /  test loss : 0.8301174
+           train acc : 1.0000000  /  test acc : 0.8880000
+epoch 920 - train loss : 0.0000011  /  test loss : 0.8434690
+           train acc : 1.0000000  /  test acc : 0.8866667
+epoch 930 - train loss : 0.0000009  /  test loss : 0.8372416
+           train acc : 1.0000000  /  test acc : 0.8886667
+epoch 940 - train loss : 0.0000011  /  test loss : 0.8470816
+           train acc : 1.0000000  /  test acc : 0.8893333
+epoch 950 - train loss : 0.0000010  /  test loss : 0.8515659
+           train acc : 1.0000000  /  test acc : 0.8860000
+@@@@@@@ save model : epoch 950
+epoch 960 - train loss : 0.0000010  /  test loss : 0.8561415
+           train acc : 1.0000000  /  test acc : 0.8900000
+epoch 970 - train loss : 0.0000007  /  test loss : 0.8625811
+           train acc : 1.0000000  /  test acc : 0.8873333
+epoch 980 - train loss : 0.0000011  /  test loss : 0.8603628
+           train acc : 1.0000000  /  test acc : 0.8900000
+epoch 990 - train loss : 0.0000006  /  test loss : 0.8644918
+           train acc : 1.0000000  /  test acc : 0.8900000
+epoch 1000 - train loss : 0.0000006  /  test loss : 0.8673326
+           train acc : 1.0000000  /  test acc : 0.8906667
+@@@@@@@ save model : epoch 1000
+training complete! - calculation time : 173.73797726631165   seconds
+
+
+[Training]mem_band_env_20.0_model2
+mem_band_env data shape  -  20.0 ms
+train set : torch.Size([5000, 10, 200]) torch.Size([5000, 5])
+test set : torch.Size([1500, 10, 200]) torch.Size([1500, 5])
+epoch 0 - train loss : 0.5166869  /  test loss : 1.0144817
+           train acc : 0.6920000  /  test acc : 0.2000000
+@@@@@@@ save model : epoch 0
+epoch 10 - train loss : 0.0015392  /  test loss : 0.5312800
+           train acc : 0.9998000  /  test acc : 0.8353333
+epoch 20 - train loss : 0.0003679  /  test loss : 0.3838039
+           train acc : 1.0000000  /  test acc : 0.8640000
+epoch 30 - train loss : 0.0001997  /  test loss : 0.3689323
+           train acc : 1.0000000  /  test acc : 0.8793333
+epoch 40 - train loss : 0.0001468  /  test loss : 0.5011405
+           train acc : 1.0000000  /  test acc : 0.8493333
+epoch 50 - train loss : 0.0000815  /  test loss : 0.4112468
+           train acc : 1.0000000  /  test acc : 0.8733333
+@@@@@@@ save model : epoch 50
+epoch 60 - train loss : 0.0000556  /  test loss : 0.4061999
+           train acc : 1.0000000  /  test acc : 0.8720000
+epoch 70 - train loss : 0.0000566  /  test loss : 0.4212751
+           train acc : 1.0000000  /  test acc : 0.8693333
+epoch 80 - train loss : 0.0000394  /  test loss : 0.4301529
+           train acc : 1.0000000  /  test acc : 0.8720000
+epoch 90 - train loss : 0.0000317  /  test loss : 0.4193936
+           train acc : 1.0000000  /  test acc : 0.8753333
+epoch 100 - train loss : 0.0000254  /  test loss : 0.4433347
+           train acc : 1.0000000  /  test acc : 0.8726667
+@@@@@@@ save model : epoch 100
+epoch 110 - train loss : 0.0000258  /  test loss : 0.4242295
+           train acc : 1.0000000  /  test acc : 0.8786667
+epoch 120 - train loss : 0.0000218  /  test loss : 0.4418439
+           train acc : 1.0000000  /  test acc : 0.8773333
+epoch 130 - train loss : 0.0000267  /  test loss : 0.4468294
+           train acc : 1.0000000  /  test acc : 0.8766667
+epoch 140 - train loss : 0.0000149  /  test loss : 0.4283438
+           train acc : 1.0000000  /  test acc : 0.8806667
+epoch 150 - train loss : 0.0000138  /  test loss : 0.4404640
+           train acc : 1.0000000  /  test acc : 0.8780000
+@@@@@@@ save model : epoch 150
+epoch 160 - train loss : 0.0000143  /  test loss : 0.4302088
+           train acc : 1.0000000  /  test acc : 0.8786667
+epoch 170 - train loss : 0.0000131  /  test loss : 0.4529620
+           train acc : 1.0000000  /  test acc : 0.8786667
+epoch 180 - train loss : 0.0000245  /  test loss : 0.4485747
+           train acc : 1.0000000  /  test acc : 0.8753333
+epoch 190 - train loss : 0.0000117  /  test loss : 0.4365373
+           train acc : 1.0000000  /  test acc : 0.8813333
+epoch 200 - train loss : 0.0000079  /  test loss : 0.4479252
+           train acc : 1.0000000  /  test acc : 0.8813333
+@@@@@@@ save model : epoch 200
+epoch 210 - train loss : 0.0000088  /  test loss : 0.4855362
+           train acc : 1.0000000  /  test acc : 0.8733333
+epoch 220 - train loss : 0.0000074  /  test loss : 0.4672267
+           train acc : 1.0000000  /  test acc : 0.8746667
+epoch 230 - train loss : 0.0000067  /  test loss : 0.4628115
+           train acc : 1.0000000  /  test acc : 0.8766667
+epoch 240 - train loss : 0.0000078  /  test loss : 0.4599163
+           train acc : 1.0000000  /  test acc : 0.8773333
+epoch 250 - train loss : 0.0000074  /  test loss : 0.4601864
+           train acc : 1.0000000  /  test acc : 0.8793333
+@@@@@@@ save model : epoch 250
+epoch 260 - train loss : 0.0000061  /  test loss : 0.4825765
+           train acc : 1.0000000  /  test acc : 0.8780000
+epoch 270 - train loss : 0.0000059  /  test loss : 0.4642838
+           train acc : 1.0000000  /  test acc : 0.8786667
+epoch 280 - train loss : 0.0000051  /  test loss : 0.4796784
+           train acc : 1.0000000  /  test acc : 0.8793333
+epoch 290 - train loss : 0.0000053  /  test loss : 0.4739475
+           train acc : 1.0000000  /  test acc : 0.8793333
+epoch 300 - train loss : 0.0000052  /  test loss : 0.4825086
+           train acc : 1.0000000  /  test acc : 0.8780000
+@@@@@@@ save model : epoch 300
+epoch 310 - train loss : 0.0000057  /  test loss : 0.4832127
+           train acc : 1.0000000  /  test acc : 0.8793333
+epoch 320 - train loss : 0.0000057  /  test loss : 0.4720200
+           train acc : 1.0000000  /  test acc : 0.8793333
+epoch 330 - train loss : 0.0000046  /  test loss : 0.5326135
+           train acc : 1.0000000  /  test acc : 0.8700000
+epoch 340 - train loss : 0.0000045  /  test loss : 0.5016161
+           train acc : 1.0000000  /  test acc : 0.8733333
+epoch 350 - train loss : 0.0000044  /  test loss : 0.5219590
+           train acc : 1.0000000  /  test acc : 0.8733333
+@@@@@@@ save model : epoch 350
+epoch 360 - train loss : 0.0000046  /  test loss : 0.4923407
+           train acc : 1.0000000  /  test acc : 0.8780000
+epoch 370 - train loss : 0.0000040  /  test loss : 0.4980992
+           train acc : 1.0000000  /  test acc : 0.8780000
+epoch 380 - train loss : 0.0000040  /  test loss : 0.4932580
+           train acc : 1.0000000  /  test acc : 0.8813333
+epoch 390 - train loss : 0.0000049  /  test loss : 0.4833011
+           train acc : 1.0000000  /  test acc : 0.8806667
+epoch 400 - train loss : 0.0000039  /  test loss : 0.4851398
+           train acc : 1.0000000  /  test acc : 0.8773333
+@@@@@@@ save model : epoch 400
+epoch 410 - train loss : 0.0000037  /  test loss : 0.4763891
+           train acc : 1.0000000  /  test acc : 0.8813333
+epoch 420 - train loss : 0.0000037  /  test loss : 0.4852357
+           train acc : 1.0000000  /  test acc : 0.8800000
+epoch 430 - train loss : 0.0000033  /  test loss : 0.4815658
+           train acc : 1.0000000  /  test acc : 0.8813333
+epoch 440 - train loss : 0.0000044  /  test loss : 0.4772739
+           train acc : 1.0000000  /  test acc : 0.8806667
+epoch 450 - train loss : 0.0000033  /  test loss : 0.4772255
+           train acc : 1.0000000  /  test acc : 0.8806667
+@@@@@@@ save model : epoch 450
+epoch 460 - train loss : 0.0000043  /  test loss : 0.4838783
+           train acc : 1.0000000  /  test acc : 0.8786667
+epoch 470 - train loss : 0.0000036  /  test loss : 0.4830027
+           train acc : 1.0000000  /  test acc : 0.8780000
+epoch 480 - train loss : 0.0000035  /  test loss : 0.4993437
+           train acc : 1.0000000  /  test acc : 0.8780000
+epoch 490 - train loss : 0.0000035  /  test loss : 0.4874816
+           train acc : 1.0000000  /  test acc : 0.8806667
+epoch 500 - train loss : 0.0000042  /  test loss : 0.4978537
+           train acc : 1.0000000  /  test acc : 0.8786667
+@@@@@@@ save model : epoch 500
+epoch 510 - train loss : 0.0000033  /  test loss : 0.4955251
+           train acc : 1.0000000  /  test acc : 0.8780000
+epoch 520 - train loss : 0.0000035  /  test loss : 0.4954113
+           train acc : 1.0000000  /  test acc : 0.8793333
+epoch 530 - train loss : 0.0000045  /  test loss : 0.4995687
+           train acc : 1.0000000  /  test acc : 0.8800000
+epoch 540 - train loss : 0.0000036  /  test loss : 0.4853199
+           train acc : 1.0000000  /  test acc : 0.8780000
+epoch 550 - train loss : 0.0000032  /  test loss : 0.4763301
+           train acc : 1.0000000  /  test acc : 0.8806667
+@@@@@@@ save model : epoch 550
+epoch 560 - train loss : 0.0000035  /  test loss : 0.4952260
+           train acc : 1.0000000  /  test acc : 0.8773333
+epoch 570 - train loss : 0.0000038  /  test loss : 0.4931341
+           train acc : 1.0000000  /  test acc : 0.8800000
+epoch 580 - train loss : 0.0000039  /  test loss : 0.4945651
+           train acc : 1.0000000  /  test acc : 0.8786667
+epoch 590 - train loss : 0.0000034  /  test loss : 0.4925716
+           train acc : 1.0000000  /  test acc : 0.8780000
+epoch 600 - train loss : 0.0000032  /  test loss : 0.4792155
+           train acc : 1.0000000  /  test acc : 0.8806667
+@@@@@@@ save model : epoch 600
+epoch 610 - train loss : 0.0000038  /  test loss : 0.4973325
+           train acc : 1.0000000  /  test acc : 0.8793333
+epoch 620 - train loss : 0.0000027  /  test loss : 0.5137879
+           train acc : 1.0000000  /  test acc : 0.8773333
+epoch 630 - train loss : 0.0000032  /  test loss : 0.5049213
+           train acc : 1.0000000  /  test acc : 0.8780000
+epoch 640 - train loss : 0.0000026  /  test loss : 0.4899854
+           train acc : 1.0000000  /  test acc : 0.8773333
+epoch 650 - train loss : 0.0000026  /  test loss : 0.4975512
+           train acc : 1.0000000  /  test acc : 0.8840000
+@@@@@@@ save model : epoch 650
+epoch 660 - train loss : 0.0000036  /  test loss : 0.5211877
+           train acc : 1.0000000  /  test acc : 0.8793333
+epoch 670 - train loss : 0.0000029  /  test loss : 0.5223713
+           train acc : 1.0000000  /  test acc : 0.8760000
+epoch 680 - train loss : 0.0000023  /  test loss : 0.5227653
+           train acc : 1.0000000  /  test acc : 0.8800000
+epoch 690 - train loss : 0.0000016  /  test loss : 0.5118358
+           train acc : 1.0000000  /  test acc : 0.8800000
+epoch 700 - train loss : 0.0000016  /  test loss : 0.5114821
+           train acc : 1.0000000  /  test acc : 0.8820000
+@@@@@@@ save model : epoch 700
+epoch 710 - train loss : 0.0000015  /  test loss : 0.5022089
+           train acc : 1.0000000  /  test acc : 0.8813333
+epoch 720 - train loss : 0.0000013  /  test loss : 0.4930370
+           train acc : 1.0000000  /  test acc : 0.8860000
+epoch 730 - train loss : 0.0000011  /  test loss : 0.5179444
+           train acc : 1.0000000  /  test acc : 0.8820000
+epoch 740 - train loss : 0.0000013  /  test loss : 0.5109943
+           train acc : 1.0000000  /  test acc : 0.8846667
+epoch 750 - train loss : 0.0000011  /  test loss : 0.5308755
+           train acc : 1.0000000  /  test acc : 0.8800000
+@@@@@@@ save model : epoch 750
+epoch 760 - train loss : 0.0000010  /  test loss : 0.5128614
+           train acc : 1.0000000  /  test acc : 0.8866667
+epoch 770 - train loss : 0.0000009  /  test loss : 0.5475351
+           train acc : 1.0000000  /  test acc : 0.8820000
+epoch 780 - train loss : 0.0000005  /  test loss : 0.5414887
+           train acc : 1.0000000  /  test acc : 0.8826667
+epoch 790 - train loss : 0.0000008  /  test loss : 0.5491292
+           train acc : 1.0000000  /  test acc : 0.8833333
+epoch 800 - train loss : 0.0000005  /  test loss : 0.5622560
+           train acc : 1.0000000  /  test acc : 0.8766667
+@@@@@@@ save model : epoch 800
+epoch 810 - train loss : 0.0000005  /  test loss : 0.5263118
+           train acc : 1.0000000  /  test acc : 0.8873333
+epoch 820 - train loss : 0.0000006  /  test loss : 0.5779429
+           train acc : 1.0000000  /  test acc : 0.8773333
+epoch 830 - train loss : 0.0000003  /  test loss : 0.5626443
+           train acc : 1.0000000  /  test acc : 0.8786667
+epoch 840 - train loss : 0.0000003  /  test loss : 0.5662935
+           train acc : 1.0000000  /  test acc : 0.8813333
+epoch 850 - train loss : 0.0000003  /  test loss : 0.5419896
+           train acc : 1.0000000  /  test acc : 0.8880000
+@@@@@@@ save model : epoch 850
+epoch 860 - train loss : 0.0045180  /  test loss : 0.3910894
+           train acc : 0.9988000  /  test acc : 0.8780000
+epoch 870 - train loss : 0.0002818  /  test loss : 0.3585004
+           train acc : 1.0000000  /  test acc : 0.9146667
+epoch 880 - train loss : 0.0001212  /  test loss : 0.3474908
+           train acc : 1.0000000  /  test acc : 0.9213333
+epoch 890 - train loss : 0.0000893  /  test loss : 0.3550291
+           train acc : 1.0000000  /  test acc : 0.9220000
+epoch 900 - train loss : 0.0000479  /  test loss : 0.3591986
+           train acc : 1.0000000  /  test acc : 0.9193333
+@@@@@@@ save model : epoch 900
+epoch 910 - train loss : 0.0000622  /  test loss : 0.4051261
+           train acc : 1.0000000  /  test acc : 0.9126667
+epoch 920 - train loss : 0.0000416  /  test loss : 0.3633220
+           train acc : 1.0000000  /  test acc : 0.9253333
+epoch 930 - train loss : 0.0000315  /  test loss : 0.3760890
+           train acc : 1.0000000  /  test acc : 0.9240000
+epoch 940 - train loss : 0.0000358  /  test loss : 0.3727893
+           train acc : 1.0000000  /  test acc : 0.9253333
+epoch 950 - train loss : 0.0012163  /  test loss : 0.4692302
+           train acc : 0.9994000  /  test acc : 0.9120000
+@@@@@@@ save model : epoch 950
+epoch 960 - train loss : 0.0000431  /  test loss : 0.4848828
+           train acc : 1.0000000  /  test acc : 0.9126667
+epoch 970 - train loss : 0.0000253  /  test loss : 0.5065710
+           train acc : 1.0000000  /  test acc : 0.9126667
+epoch 980 - train loss : 0.0000342  /  test loss : 0.5047386
+           train acc : 1.0000000  /  test acc : 0.9146667
+epoch 990 - train loss : 0.0000182  /  test loss : 0.5152146
+           train acc : 1.0000000  /  test acc : 0.9133333
+epoch 1000 - train loss : 0.0000178  /  test loss : 0.5213611
+           train acc : 1.0000000  /  test acc : 0.9133333
+@@@@@@@ save model : epoch 1000
+training complete! - calculation time : 174.07393264770508   seconds
+
+
+[Training]mem_band_env_20.0_model2
+mem_band_env data shape  -  20.0 ms
+train set : torch.Size([5000, 10, 200]) torch.Size([5000, 5])
+test set : torch.Size([1500, 10, 200]) torch.Size([1500, 5])
+epoch 0 - train loss : 0.4747143  /  test loss : 1.0181037
+           train acc : 0.7214000  /  test acc : 0.2000000
+@@@@@@@ save model : epoch 0
+epoch 10 - train loss : 0.0010757  /  test loss : 0.4707067
+           train acc : 1.0000000  /  test acc : 0.8706667
+epoch 20 - train loss : 0.0003504  /  test loss : 0.4781264
+           train acc : 1.0000000  /  test acc : 0.8786667
+epoch 30 - train loss : 0.0001851  /  test loss : 0.5156441
+           train acc : 1.0000000  /  test acc : 0.8800000
+epoch 40 - train loss : 0.0001303  /  test loss : 0.5705559
+           train acc : 1.0000000  /  test acc : 0.8713333
+epoch 50 - train loss : 0.0000841  /  test loss : 0.5557926
+           train acc : 1.0000000  /  test acc : 0.8740000
+@@@@@@@ save model : epoch 50
+epoch 60 - train loss : 0.0000562  /  test loss : 0.5665017
+           train acc : 1.0000000  /  test acc : 0.8753333
+epoch 70 - train loss : 0.0000661  /  test loss : 0.5497286
+           train acc : 1.0000000  /  test acc : 0.8820000
+epoch 80 - train loss : 0.0000387  /  test loss : 0.5714428
+           train acc : 1.0000000  /  test acc : 0.8780000
+epoch 90 - train loss : 0.0000316  /  test loss : 0.5911954
+           train acc : 1.0000000  /  test acc : 0.8760000
+epoch 100 - train loss : 0.0000254  /  test loss : 0.6194393
+           train acc : 1.0000000  /  test acc : 0.8720000
+@@@@@@@ save model : epoch 100
+epoch 110 - train loss : 0.0000243  /  test loss : 0.5983162
+           train acc : 1.0000000  /  test acc : 0.8753333
+epoch 120 - train loss : 0.0000234  /  test loss : 0.6061705
+           train acc : 1.0000000  /  test acc : 0.8740000
+epoch 130 - train loss : 0.0000264  /  test loss : 0.6553618
+           train acc : 1.0000000  /  test acc : 0.8693333
+epoch 140 - train loss : 0.0000138  /  test loss : 0.6108970
+           train acc : 1.0000000  /  test acc : 0.8746667
+epoch 150 - train loss : 0.0000134  /  test loss : 0.6125559
+           train acc : 1.0000000  /  test acc : 0.8733333
+@@@@@@@ save model : epoch 150
+epoch 160 - train loss : 0.0000141  /  test loss : 0.5955144
+           train acc : 1.0000000  /  test acc : 0.8806667
+epoch 170 - train loss : 0.0000124  /  test loss : 0.6261228
+           train acc : 1.0000000  /  test acc : 0.8753333
+epoch 180 - train loss : 0.0000188  /  test loss : 0.6032021
+           train acc : 1.0000000  /  test acc : 0.8800000
+epoch 190 - train loss : 0.0000114  /  test loss : 0.6163498
+           train acc : 1.0000000  /  test acc : 0.8786667
+epoch 200 - train loss : 0.0000077  /  test loss : 0.6418778
+           train acc : 1.0000000  /  test acc : 0.8766667
+@@@@@@@ save model : epoch 200
+epoch 210 - train loss : 0.0000095  /  test loss : 0.6621368
+           train acc : 1.0000000  /  test acc : 0.8713333
+epoch 220 - train loss : 0.0000072  /  test loss : 0.6492948
+           train acc : 1.0000000  /  test acc : 0.8766667
+epoch 230 - train loss : 0.0000066  /  test loss : 0.6513714
+           train acc : 1.0000000  /  test acc : 0.8753333
+epoch 240 - train loss : 0.0000076  /  test loss : 0.6478220
+           train acc : 1.0000000  /  test acc : 0.8760000
+epoch 250 - train loss : 0.0000079  /  test loss : 0.6478805
+           train acc : 1.0000000  /  test acc : 0.8766667
+@@@@@@@ save model : epoch 250
+epoch 260 - train loss : 0.0000057  /  test loss : 0.6683969
+           train acc : 1.0000000  /  test acc : 0.8740000
+epoch 270 - train loss : 0.0000058  /  test loss : 0.6532228
+           train acc : 1.0000000  /  test acc : 0.8773333
+epoch 280 - train loss : 0.0000050  /  test loss : 0.7064054
+           train acc : 1.0000000  /  test acc : 0.8666667
+epoch 290 - train loss : 0.0000052  /  test loss : 0.6542016
+           train acc : 1.0000000  /  test acc : 0.8760000
+epoch 300 - train loss : 0.0000049  /  test loss : 0.6722831
+           train acc : 1.0000000  /  test acc : 0.8760000
+@@@@@@@ save model : epoch 300
+epoch 310 - train loss : 0.0000056  /  test loss : 0.6735840
+           train acc : 1.0000000  /  test acc : 0.8753333
+epoch 320 - train loss : 0.0000059  /  test loss : 0.6625442
+           train acc : 1.0000000  /  test acc : 0.8753333
+epoch 330 - train loss : 0.0000040  /  test loss : 0.6887013
+           train acc : 1.0000000  /  test acc : 0.8720000
+epoch 340 - train loss : 0.0000042  /  test loss : 0.6806624
+           train acc : 1.0000000  /  test acc : 0.8726667
+epoch 350 - train loss : 0.0000041  /  test loss : 0.7084185
+           train acc : 1.0000000  /  test acc : 0.8706667
+@@@@@@@ save model : epoch 350
+epoch 360 - train loss : 0.0000043  /  test loss : 0.6756658
+           train acc : 1.0000000  /  test acc : 0.8766667
+epoch 370 - train loss : 0.0000038  /  test loss : 0.6901584
+           train acc : 1.0000000  /  test acc : 0.8720000
+epoch 380 - train loss : 0.0000045  /  test loss : 0.6771832
+           train acc : 1.0000000  /  test acc : 0.8746667
+epoch 390 - train loss : 0.0000050  /  test loss : 0.6855555
+           train acc : 1.0000000  /  test acc : 0.8740000
+epoch 400 - train loss : 0.0000036  /  test loss : 0.6711754
+           train acc : 1.0000000  /  test acc : 0.8766667
+@@@@@@@ save model : epoch 400
+epoch 410 - train loss : 0.0000034  /  test loss : 0.6676350
+           train acc : 1.0000000  /  test acc : 0.8766667
+epoch 420 - train loss : 0.0000036  /  test loss : 0.6854001
+           train acc : 1.0000000  /  test acc : 0.8760000
+epoch 430 - train loss : 0.0000031  /  test loss : 0.6714625
+           train acc : 1.0000000  /  test acc : 0.8760000
+epoch 440 - train loss : 0.0000041  /  test loss : 0.6647641
+           train acc : 1.0000000  /  test acc : 0.8760000
+epoch 450 - train loss : 0.0000032  /  test loss : 0.6665149
+           train acc : 1.0000000  /  test acc : 0.8753333
+@@@@@@@ save model : epoch 450
+epoch 460 - train loss : 0.0000046  /  test loss : 0.6754303
+           train acc : 1.0000000  /  test acc : 0.8746667
+epoch 470 - train loss : 0.0000035  /  test loss : 0.6723817
+           train acc : 1.0000000  /  test acc : 0.8753333
+epoch 480 - train loss : 0.0000033  /  test loss : 0.6945560
+           train acc : 1.0000000  /  test acc : 0.8740000
+epoch 490 - train loss : 0.0000033  /  test loss : 0.6791276
+           train acc : 1.0000000  /  test acc : 0.8773333
+epoch 500 - train loss : 0.0000038  /  test loss : 0.6954935
+           train acc : 1.0000000  /  test acc : 0.8753333
+@@@@@@@ save model : epoch 500
+epoch 510 - train loss : 0.0000031  /  test loss : 0.6866080
+           train acc : 1.0000000  /  test acc : 0.8746667
+epoch 520 - train loss : 0.0000032  /  test loss : 0.6973900
+           train acc : 1.0000000  /  test acc : 0.8713333
+epoch 530 - train loss : 0.0000043  /  test loss : 0.6924242
+           train acc : 1.0000000  /  test acc : 0.8740000
+epoch 540 - train loss : 0.0000035  /  test loss : 0.6784614
+           train acc : 1.0000000  /  test acc : 0.8740000
+epoch 550 - train loss : 0.0000031  /  test loss : 0.6638059
+           train acc : 1.0000000  /  test acc : 0.8773333
+@@@@@@@ save model : epoch 550
+epoch 560 - train loss : 0.0000034  /  test loss : 0.6953359
+           train acc : 1.0000000  /  test acc : 0.8740000
+epoch 570 - train loss : 0.0000038  /  test loss : 0.6855129
+           train acc : 1.0000000  /  test acc : 0.8746667
+epoch 580 - train loss : 0.0000034  /  test loss : 0.6866252
+           train acc : 1.0000000  /  test acc : 0.8740000
+epoch 590 - train loss : 0.0000037  /  test loss : 0.6781241
+           train acc : 1.0000000  /  test acc : 0.8746667
+epoch 600 - train loss : 0.0000033  /  test loss : 0.6754963
+           train acc : 1.0000000  /  test acc : 0.8733333
+@@@@@@@ save model : epoch 600
+epoch 610 - train loss : 0.0000035  /  test loss : 0.6989062
+           train acc : 1.0000000  /  test acc : 0.8746667
+epoch 620 - train loss : 0.0000026  /  test loss : 0.6901940
+           train acc : 1.0000000  /  test acc : 0.8766667
+epoch 630 - train loss : 0.0000028  /  test loss : 0.6900043
+           train acc : 1.0000000  /  test acc : 0.8760000
+epoch 640 - train loss : 0.0000026  /  test loss : 0.6926357
+           train acc : 1.0000000  /  test acc : 0.8740000
+epoch 650 - train loss : 0.0000026  /  test loss : 0.7032288
+           train acc : 1.0000000  /  test acc : 0.8760000
+@@@@@@@ save model : epoch 650
+epoch 660 - train loss : 0.0000028  /  test loss : 0.7016200
+           train acc : 1.0000000  /  test acc : 0.8746667
+epoch 670 - train loss : 0.0000027  /  test loss : 0.6126127
+           train acc : 1.0000000  /  test acc : 0.8933333
+epoch 680 - train loss : 0.0000051  /  test loss : 0.6767714
+           train acc : 1.0000000  /  test acc : 0.8873333
+epoch 690 - train loss : 0.0052657  /  test loss : 0.4633297
+           train acc : 0.9978000  /  test acc : 0.9153333
+epoch 700 - train loss : 0.0000805  /  test loss : 0.5968723
+           train acc : 1.0000000  /  test acc : 0.8900000
+@@@@@@@ save model : epoch 700
+epoch 710 - train loss : 0.0000502  /  test loss : 0.5826494
+           train acc : 1.0000000  /  test acc : 0.8933333
+epoch 720 - train loss : 0.0000308  /  test loss : 0.5970201
+           train acc : 1.0000000  /  test acc : 0.8946667
+epoch 730 - train loss : 0.0000240  /  test loss : 0.6205110
+           train acc : 1.0000000  /  test acc : 0.8906667
+epoch 740 - train loss : 0.0000208  /  test loss : 0.6287321
+           train acc : 1.0000000  /  test acc : 0.8933333
+epoch 750 - train loss : 0.0000169  /  test loss : 0.6434178
+           train acc : 1.0000000  /  test acc : 0.8900000
+@@@@@@@ save model : epoch 750
+epoch 760 - train loss : 0.0000140  /  test loss : 0.6532808
+           train acc : 1.0000000  /  test acc : 0.8906667
+epoch 770 - train loss : 0.0000112  /  test loss : 0.6542523
+           train acc : 1.0000000  /  test acc : 0.8926667
+epoch 780 - train loss : 0.0000074  /  test loss : 0.6587085
+           train acc : 1.0000000  /  test acc : 0.8926667
+epoch 790 - train loss : 0.0000109  /  test loss : 0.6843450
+           train acc : 1.0000000  /  test acc : 0.8913333
+epoch 800 - train loss : 0.0000062  /  test loss : 0.6641484
+           train acc : 1.0000000  /  test acc : 0.8940000
+@@@@@@@ save model : epoch 800
+epoch 810 - train loss : 0.0000068  /  test loss : 0.6831614
+           train acc : 1.0000000  /  test acc : 0.8906667
+epoch 820 - train loss : 0.0000059  /  test loss : 0.7028768
+           train acc : 1.0000000  /  test acc : 0.8900000
+epoch 830 - train loss : 0.0000037  /  test loss : 0.7110778
+           train acc : 1.0000000  /  test acc : 0.8873333
+epoch 840 - train loss : 0.0000038  /  test loss : 0.7090471
+           train acc : 1.0000000  /  test acc : 0.8933333
+epoch 850 - train loss : 0.0000034  /  test loss : 0.7074151
+           train acc : 1.0000000  /  test acc : 0.8906667
+@@@@@@@ save model : epoch 850
+epoch 860 - train loss : 0.0000035  /  test loss : 0.7188287
+           train acc : 1.0000000  /  test acc : 0.8906667
+epoch 870 - train loss : 0.0000026  /  test loss : 0.7330539
+           train acc : 1.0000000  /  test acc : 0.8900000
+epoch 880 - train loss : 0.0000027  /  test loss : 0.7406004
+           train acc : 1.0000000  /  test acc : 0.8886667
+epoch 890 - train loss : 0.0000033  /  test loss : 0.7313322
+           train acc : 1.0000000  /  test acc : 0.8920000
+epoch 900 - train loss : 0.0000015  /  test loss : 0.7425224
+           train acc : 1.0000000  /  test acc : 0.8893333
+@@@@@@@ save model : epoch 900
+epoch 910 - train loss : 0.0000016  /  test loss : 0.7548576
+           train acc : 1.0000000  /  test acc : 0.8906667
+epoch 920 - train loss : 0.0000019  /  test loss : 0.7415874
+           train acc : 1.0000000  /  test acc : 0.8933333
+epoch 930 - train loss : 0.0000012  /  test loss : 0.7507016
+           train acc : 1.0000000  /  test acc : 0.8893333
+epoch 940 - train loss : 0.0000016  /  test loss : 0.7523700
+           train acc : 1.0000000  /  test acc : 0.8900000
+epoch 950 - train loss : 0.0000013  /  test loss : 0.7620614
+           train acc : 1.0000000  /  test acc : 0.8913333
+@@@@@@@ save model : epoch 950
+epoch 960 - train loss : 0.0000014  /  test loss : 0.7823341
+           train acc : 1.0000000  /  test acc : 0.8880000
+epoch 970 - train loss : 0.0000011  /  test loss : 0.7645340
+           train acc : 1.0000000  /  test acc : 0.8913333
+epoch 980 - train loss : 0.0000014  /  test loss : 0.8002042
+           train acc : 1.0000000  /  test acc : 0.8873333
+epoch 990 - train loss : 0.0000009  /  test loss : 0.7998524
+           train acc : 1.0000000  /  test acc : 0.8866667
+epoch 1000 - train loss : 0.0000009  /  test loss : 0.8001642
+           train acc : 1.0000000  /  test acc : 0.8886667
+@@@@@@@ save model : epoch 1000
+training complete! - calculation time : 174.9563603401184   seconds
+
+
+[Training]mem_band_env_20.0_model2
+mem_band_env data shape  -  20.0 ms
+train set : torch.Size([5000, 10, 200]) torch.Size([5000, 5])
+test set : torch.Size([1500, 10, 200]) torch.Size([1500, 5])
+epoch 0 - train loss : 0.4272934  /  test loss : 1.0144531
+           train acc : 0.7480000  /  test acc : 0.2000000
+@@@@@@@ save model : epoch 0
+epoch 10 - train loss : 0.0016403  /  test loss : 0.5264157
+           train acc : 1.0000000  /  test acc : 0.8360000
+epoch 20 - train loss : 0.0004357  /  test loss : 0.4923949
+           train acc : 1.0000000  /  test acc : 0.8626667
+epoch 30 - train loss : 0.0001749  /  test loss : 0.4504126
+           train acc : 1.0000000  /  test acc : 0.8793333
+epoch 40 - train loss : 0.0001143  /  test loss : 0.4728792
+           train acc : 1.0000000  /  test acc : 0.8766667
+epoch 50 - train loss : 0.0000816  /  test loss : 0.4904603
+           train acc : 1.0000000  /  test acc : 0.8720000
+@@@@@@@ save model : epoch 50
+epoch 60 - train loss : 0.0000574  /  test loss : 0.4615820
+           train acc : 1.0000000  /  test acc : 0.8793333
+epoch 70 - train loss : 0.0000606  /  test loss : 0.5140380
+           train acc : 1.0000000  /  test acc : 0.8693333
+epoch 80 - train loss : 0.0000391  /  test loss : 0.4963151
+           train acc : 1.0000000  /  test acc : 0.8760000
+epoch 90 - train loss : 0.0000356  /  test loss : 0.5211417
+           train acc : 1.0000000  /  test acc : 0.8680000
+epoch 100 - train loss : 0.0000282  /  test loss : 0.5436467
+           train acc : 1.0000000  /  test acc : 0.8700000
+@@@@@@@ save model : epoch 100
+epoch 110 - train loss : 0.0000257  /  test loss : 0.5335525
+           train acc : 1.0000000  /  test acc : 0.8733333
+epoch 120 - train loss : 0.0000226  /  test loss : 0.5452429
+           train acc : 1.0000000  /  test acc : 0.8706667
+epoch 130 - train loss : 0.0000337  /  test loss : 0.5090435
+           train acc : 1.0000000  /  test acc : 0.8700000
+epoch 140 - train loss : 0.0000144  /  test loss : 0.5310323
+           train acc : 1.0000000  /  test acc : 0.8746667
+epoch 150 - train loss : 0.0000149  /  test loss : 0.5346227
+           train acc : 1.0000000  /  test acc : 0.8700000
+@@@@@@@ save model : epoch 150
+epoch 160 - train loss : 0.0000154  /  test loss : 0.5468413
+           train acc : 1.0000000  /  test acc : 0.8726667
+epoch 170 - train loss : 0.0000134  /  test loss : 0.5580274
+           train acc : 1.0000000  /  test acc : 0.8733333
+epoch 180 - train loss : 0.0000452  /  test loss : 0.5411955
+           train acc : 1.0000000  /  test acc : 0.8746667
+epoch 190 - train loss : 0.0000124  /  test loss : 0.5226163
+           train acc : 1.0000000  /  test acc : 0.8733333
+epoch 200 - train loss : 0.0000084  /  test loss : 0.5610014
+           train acc : 1.0000000  /  test acc : 0.8766667
+@@@@@@@ save model : epoch 200
+epoch 210 - train loss : 0.0000087  /  test loss : 0.5662130
+           train acc : 1.0000000  /  test acc : 0.8733333
+epoch 220 - train loss : 0.0000079  /  test loss : 0.5521413
+           train acc : 1.0000000  /  test acc : 0.8753333
+epoch 230 - train loss : 0.0000068  /  test loss : 0.5584828
+           train acc : 1.0000000  /  test acc : 0.8780000
+epoch 240 - train loss : 0.0000080  /  test loss : 0.5756751
+           train acc : 1.0000000  /  test acc : 0.8733333
+epoch 250 - train loss : 0.0000074  /  test loss : 0.5653515
+           train acc : 1.0000000  /  test acc : 0.8753333
+@@@@@@@ save model : epoch 250
+epoch 260 - train loss : 0.0000067  /  test loss : 0.5870001
+           train acc : 1.0000000  /  test acc : 0.8706667
+epoch 270 - train loss : 0.0000060  /  test loss : 0.5754088
+           train acc : 1.0000000  /  test acc : 0.8740000
+epoch 280 - train loss : 0.0000049  /  test loss : 0.5857547
+           train acc : 1.0000000  /  test acc : 0.8733333
+epoch 290 - train loss : 0.0000054  /  test loss : 0.5835670
+           train acc : 1.0000000  /  test acc : 0.8726667
+epoch 300 - train loss : 0.0000053  /  test loss : 0.5815331
+           train acc : 1.0000000  /  test acc : 0.8793333
+@@@@@@@ save model : epoch 300
+epoch 310 - train loss : 0.0000061  /  test loss : 0.6155875
+           train acc : 1.0000000  /  test acc : 0.8740000
+epoch 320 - train loss : 0.0000057  /  test loss : 0.5740252
+           train acc : 1.0000000  /  test acc : 0.8753333
+epoch 330 - train loss : 0.0000042  /  test loss : 0.5969790
+           train acc : 1.0000000  /  test acc : 0.8746667
+epoch 340 - train loss : 0.0000045  /  test loss : 0.5827661
+           train acc : 1.0000000  /  test acc : 0.8746667
+epoch 350 - train loss : 0.0000043  /  test loss : 0.6194077
+           train acc : 1.0000000  /  test acc : 0.8733333
+@@@@@@@ save model : epoch 350
+epoch 360 - train loss : 0.0000047  /  test loss : 0.5950945
+           train acc : 1.0000000  /  test acc : 0.8726667
+epoch 370 - train loss : 0.0000041  /  test loss : 0.5923698
+           train acc : 1.0000000  /  test acc : 0.8780000
+epoch 380 - train loss : 0.0000069  /  test loss : 0.5887117
+           train acc : 1.0000000  /  test acc : 0.8746667
+epoch 390 - train loss : 0.0000058  /  test loss : 0.6127714
+           train acc : 1.0000000  /  test acc : 0.8713333
+epoch 400 - train loss : 0.0000038  /  test loss : 0.6029377
+           train acc : 1.0000000  /  test acc : 0.8746667
+@@@@@@@ save model : epoch 400
+epoch 410 - train loss : 0.0000039  /  test loss : 0.5954292
+           train acc : 1.0000000  /  test acc : 0.8753333
+epoch 420 - train loss : 0.0000037  /  test loss : 0.5911656
+           train acc : 1.0000000  /  test acc : 0.8753333
+epoch 430 - train loss : 0.0000034  /  test loss : 0.5882453
+           train acc : 1.0000000  /  test acc : 0.8753333
+epoch 440 - train loss : 0.0000044  /  test loss : 0.5759128
+           train acc : 1.0000000  /  test acc : 0.8753333
+epoch 450 - train loss : 0.0000035  /  test loss : 0.5734337
+           train acc : 1.0000000  /  test acc : 0.8773333
+@@@@@@@ save model : epoch 450
+epoch 460 - train loss : 0.0000045  /  test loss : 0.5803429
+           train acc : 1.0000000  /  test acc : 0.8746667
+epoch 470 - train loss : 0.0000038  /  test loss : 0.5750545
+           train acc : 1.0000000  /  test acc : 0.8760000
+epoch 480 - train loss : 0.0000036  /  test loss : 0.6077827
+           train acc : 1.0000000  /  test acc : 0.8760000
+epoch 490 - train loss : 0.0000034  /  test loss : 0.5953314
+           train acc : 1.0000000  /  test acc : 0.8780000
+epoch 500 - train loss : 0.0000042  /  test loss : 0.6022352
+           train acc : 1.0000000  /  test acc : 0.8753333
+@@@@@@@ save model : epoch 500
+epoch 510 - train loss : 0.0000033  /  test loss : 0.6102827
+           train acc : 1.0000000  /  test acc : 0.8740000
+epoch 520 - train loss : 0.0000034  /  test loss : 0.6026007
+           train acc : 1.0000000  /  test acc : 0.8773333
+epoch 530 - train loss : 0.0000051  /  test loss : 0.6067688
+           train acc : 1.0000000  /  test acc : 0.8733333
+epoch 540 - train loss : 0.0000038  /  test loss : 0.5921278
+           train acc : 1.0000000  /  test acc : 0.8806667
+epoch 550 - train loss : 0.0000033  /  test loss : 0.5918519
+           train acc : 1.0000000  /  test acc : 0.8753333
+@@@@@@@ save model : epoch 550
+epoch 560 - train loss : 0.0000038  /  test loss : 0.6057793
+           train acc : 1.0000000  /  test acc : 0.8753333
+epoch 570 - train loss : 0.0000039  /  test loss : 0.6141929
+           train acc : 1.0000000  /  test acc : 0.8753333
+epoch 580 - train loss : 0.0000036  /  test loss : 0.5861448
+           train acc : 1.0000000  /  test acc : 0.8760000
+epoch 590 - train loss : 0.0000040  /  test loss : 0.5891176
+           train acc : 1.0000000  /  test acc : 0.8746667
+epoch 600 - train loss : 0.0000036  /  test loss : 0.5836811
+           train acc : 1.0000000  /  test acc : 0.8806667
+@@@@@@@ save model : epoch 600
+epoch 610 - train loss : 0.0000046  /  test loss : 0.6148884
+           train acc : 1.0000000  /  test acc : 0.8760000
+epoch 620 - train loss : 0.0000028  /  test loss : 0.6113380
+           train acc : 1.0000000  /  test acc : 0.8760000
+epoch 630 - train loss : 0.0000046  /  test loss : 0.6134683
+           train acc : 1.0000000  /  test acc : 0.8793333
+epoch 640 - train loss : 0.0000032  /  test loss : 0.6618598
+           train acc : 1.0000000  /  test acc : 0.8746667
+epoch 650 - train loss : 0.0000030  /  test loss : 0.6445948
+           train acc : 1.0000000  /  test acc : 0.8720000
+@@@@@@@ save model : epoch 650
+epoch 660 - train loss : 0.0000030  /  test loss : 0.6174963
+           train acc : 1.0000000  /  test acc : 0.8793333
+epoch 670 - train loss : 0.0000031  /  test loss : 0.7140675
+           train acc : 1.0000000  /  test acc : 0.8673333
+epoch 680 - train loss : 0.0000024  /  test loss : 0.6279086
+           train acc : 1.0000000  /  test acc : 0.8780000
+epoch 690 - train loss : 0.0000016  /  test loss : 0.6509373
+           train acc : 1.0000000  /  test acc : 0.8753333
+epoch 700 - train loss : 0.0000015  /  test loss : 0.6458717
+           train acc : 1.0000000  /  test acc : 0.8766667
+@@@@@@@ save model : epoch 700
+epoch 710 - train loss : 0.0000016  /  test loss : 0.6323248
+           train acc : 1.0000000  /  test acc : 0.8746667
+epoch 720 - train loss : 0.0001091  /  test loss : 0.5170963
+           train acc : 1.0000000  /  test acc : 0.8720000
+epoch 730 - train loss : 0.0000484  /  test loss : 0.5834945
+           train acc : 1.0000000  /  test acc : 0.8660000
+epoch 740 - train loss : 0.0000380  /  test loss : 0.6344630
+           train acc : 1.0000000  /  test acc : 0.8620000
+epoch 750 - train loss : 0.0000264  /  test loss : 0.6360225
+           train acc : 1.0000000  /  test acc : 0.8606667
+@@@@@@@ save model : epoch 750
+epoch 760 - train loss : 0.0000189  /  test loss : 0.6391966
+           train acc : 1.0000000  /  test acc : 0.8613333
+epoch 770 - train loss : 0.0000197  /  test loss : 0.6433129
+           train acc : 1.0000000  /  test acc : 0.8640000
+epoch 780 - train loss : 0.0000086  /  test loss : 0.6358943
+           train acc : 1.0000000  /  test acc : 0.8646667
+epoch 790 - train loss : 0.0000118  /  test loss : 0.6545242
+           train acc : 1.0000000  /  test acc : 0.8713333
+epoch 800 - train loss : 0.0000076  /  test loss : 0.6620050
+           train acc : 1.0000000  /  test acc : 0.8613333
+@@@@@@@ save model : epoch 800
+epoch 810 - train loss : 0.0000082  /  test loss : 0.6450153
+           train acc : 1.0000000  /  test acc : 0.8646667
+epoch 820 - train loss : 0.0000072  /  test loss : 0.6647636
+           train acc : 1.0000000  /  test acc : 0.8673333
+epoch 830 - train loss : 0.0000048  /  test loss : 0.6796324
+           train acc : 1.0000000  /  test acc : 0.8586667
+epoch 840 - train loss : 0.0000040  /  test loss : 0.6570941
+           train acc : 1.0000000  /  test acc : 0.8680000
+epoch 850 - train loss : 0.0000040  /  test loss : 0.6624584
+           train acc : 1.0000000  /  test acc : 0.8620000
+@@@@@@@ save model : epoch 850
+epoch 860 - train loss : 0.0000043  /  test loss : 0.6641135
+           train acc : 1.0000000  /  test acc : 0.8640000
+epoch 870 - train loss : 0.0000033  /  test loss : 0.7041865
+           train acc : 1.0000000  /  test acc : 0.8613333
+epoch 880 - train loss : 0.0000031  /  test loss : 0.6962176
+           train acc : 1.0000000  /  test acc : 0.8653333
+epoch 890 - train loss : 0.0000033  /  test loss : 0.6977351
+           train acc : 1.0000000  /  test acc : 0.8600000
+epoch 900 - train loss : 0.0000018  /  test loss : 0.7206307
+           train acc : 1.0000000  /  test acc : 0.8620000
+@@@@@@@ save model : epoch 900
+epoch 910 - train loss : 0.0000017  /  test loss : 0.7126408
+           train acc : 1.0000000  /  test acc : 0.8666667
+epoch 920 - train loss : 0.0000019  /  test loss : 0.7063315
+           train acc : 1.0000000  /  test acc : 0.8646667
+epoch 930 - train loss : 0.0000015  /  test loss : 0.7159456
+           train acc : 1.0000000  /  test acc : 0.8613333
+epoch 940 - train loss : 0.0000017  /  test loss : 0.6947885
+           train acc : 1.0000000  /  test acc : 0.8660000
+epoch 950 - train loss : 0.0000017  /  test loss : 0.6905855
+           train acc : 1.0000000  /  test acc : 0.8660000
+@@@@@@@ save model : epoch 950
+epoch 960 - train loss : 0.0000022  /  test loss : 0.7234618
+           train acc : 1.0000000  /  test acc : 0.8620000
+epoch 970 - train loss : 0.0000012  /  test loss : 0.6934694
+           train acc : 1.0000000  /  test acc : 0.8700000
+epoch 980 - train loss : 0.0000016  /  test loss : 0.7072840
+           train acc : 1.0000000  /  test acc : 0.8660000
+epoch 990 - train loss : 0.0000012  /  test loss : 0.7186590
+           train acc : 1.0000000  /  test acc : 0.8660000
+epoch 1000 - train loss : 0.0000011  /  test loss : 0.7142470
+           train acc : 1.0000000  /  test acc : 0.8660000
+@@@@@@@ save model : epoch 1000
+training complete! - calculation time : 174.97058081626892   seconds
+
+
+[Training]mem_band_env_20.0_model2
+mem_band_env data shape  -  20.0 ms
+train set : torch.Size([5000, 10, 200]) torch.Size([5000, 5])
+test set : torch.Size([1500, 10, 200]) torch.Size([1500, 5])
+epoch 0 - train loss : 0.3960029  /  test loss : 1.0103386
+           train acc : 0.7598000  /  test acc : 0.2000000
+@@@@@@@ save model : epoch 0
+epoch 10 - train loss : 0.0025611  /  test loss : 0.4504914
+           train acc : 0.9998000  /  test acc : 0.8686667
+epoch 20 - train loss : 0.0003823  /  test loss : 0.3923415
+           train acc : 1.0000000  /  test acc : 0.8860000
+epoch 30 - train loss : 0.0002081  /  test loss : 0.4209616
+           train acc : 1.0000000  /  test acc : 0.8840000
+epoch 40 - train loss : 0.0001695  /  test loss : 0.4090259
+           train acc : 1.0000000  /  test acc : 0.8840000
+epoch 50 - train loss : 0.0000900  /  test loss : 0.4574502
+           train acc : 1.0000000  /  test acc : 0.8826667
+@@@@@@@ save model : epoch 50
+epoch 60 - train loss : 0.0000648  /  test loss : 0.4179266
+           train acc : 1.0000000  /  test acc : 0.8826667
+epoch 70 - train loss : 0.0000720  /  test loss : 0.4659636
+           train acc : 1.0000000  /  test acc : 0.8800000
+epoch 80 - train loss : 0.0000419  /  test loss : 0.4520731
+           train acc : 1.0000000  /  test acc : 0.8833333
+epoch 90 - train loss : 0.0000372  /  test loss : 0.4711537
+           train acc : 1.0000000  /  test acc : 0.8833333
+epoch 100 - train loss : 0.0000289  /  test loss : 0.4950354
+           train acc : 1.0000000  /  test acc : 0.8780000
+@@@@@@@ save model : epoch 100
+epoch 110 - train loss : 0.0000269  /  test loss : 0.4839830
+           train acc : 1.0000000  /  test acc : 0.8813333
+epoch 120 - train loss : 0.0000255  /  test loss : 0.4768973
+           train acc : 1.0000000  /  test acc : 0.8833333
+epoch 130 - train loss : 0.0000267  /  test loss : 0.4731790
+           train acc : 1.0000000  /  test acc : 0.8833333
+epoch 140 - train loss : 0.0000154  /  test loss : 0.4775936
+           train acc : 1.0000000  /  test acc : 0.8826667
+epoch 150 - train loss : 0.0000152  /  test loss : 0.4708103
+           train acc : 1.0000000  /  test acc : 0.8860000
+@@@@@@@ save model : epoch 150
+epoch 160 - train loss : 0.0000161  /  test loss : 0.4727782
+           train acc : 1.0000000  /  test acc : 0.8866667
+epoch 170 - train loss : 0.0000166  /  test loss : 0.4946214
+           train acc : 1.0000000  /  test acc : 0.8833333
+epoch 180 - train loss : 0.0000669  /  test loss : 0.4797244
+           train acc : 1.0000000  /  test acc : 0.8920000
+epoch 190 - train loss : 0.0000133  /  test loss : 0.4647674
+           train acc : 1.0000000  /  test acc : 0.8866667
+epoch 200 - train loss : 0.0000092  /  test loss : 0.4891754
+           train acc : 1.0000000  /  test acc : 0.8846667
+@@@@@@@ save model : epoch 200
+epoch 210 - train loss : 0.0000119  /  test loss : 0.5002497
+           train acc : 1.0000000  /  test acc : 0.8826667
+epoch 220 - train loss : 0.0000086  /  test loss : 0.4845583
+           train acc : 1.0000000  /  test acc : 0.8860000
+epoch 230 - train loss : 0.0000075  /  test loss : 0.5011130
+           train acc : 1.0000000  /  test acc : 0.8833333
+epoch 240 - train loss : 0.0000084  /  test loss : 0.4957359
+           train acc : 1.0000000  /  test acc : 0.8846667
+epoch 250 - train loss : 0.0000087  /  test loss : 0.4967486
+           train acc : 1.0000000  /  test acc : 0.8826667
+@@@@@@@ save model : epoch 250
+epoch 260 - train loss : 0.0000067  /  test loss : 0.4845213
+           train acc : 1.0000000  /  test acc : 0.8866667
+epoch 270 - train loss : 0.0000065  /  test loss : 0.5016412
+           train acc : 1.0000000  /  test acc : 0.8826667
+epoch 280 - train loss : 0.0000058  /  test loss : 0.5014834
+           train acc : 1.0000000  /  test acc : 0.8853333
+epoch 290 - train loss : 0.0000060  /  test loss : 0.4906950
+           train acc : 1.0000000  /  test acc : 0.8880000
+epoch 300 - train loss : 0.0000053  /  test loss : 0.5093051
+           train acc : 1.0000000  /  test acc : 0.8820000
+@@@@@@@ save model : epoch 300
+epoch 310 - train loss : 0.0000063  /  test loss : 0.5154540
+           train acc : 1.0000000  /  test acc : 0.8860000
+epoch 320 - train loss : 0.0000067  /  test loss : 0.4966235
+           train acc : 1.0000000  /  test acc : 0.8860000
+epoch 330 - train loss : 0.0000046  /  test loss : 0.5136440
+           train acc : 1.0000000  /  test acc : 0.8826667
+epoch 340 - train loss : 0.0000049  /  test loss : 0.4936256
+           train acc : 1.0000000  /  test acc : 0.8853333
+epoch 350 - train loss : 0.0000043  /  test loss : 0.5068311
+           train acc : 1.0000000  /  test acc : 0.8866667
+@@@@@@@ save model : epoch 350
+epoch 360 - train loss : 0.0056388  /  test loss : 0.4853892
+           train acc : 0.9978000  /  test acc : 0.8573333
+epoch 370 - train loss : 0.0000978  /  test loss : 0.5820948
+           train acc : 1.0000000  /  test acc : 0.8760000
+epoch 380 - train loss : 0.0000322  /  test loss : 0.5579049
+           train acc : 1.0000000  /  test acc : 0.8766667
+epoch 390 - train loss : 0.0000283  /  test loss : 0.5632262
+           train acc : 1.0000000  /  test acc : 0.8826667
+epoch 400 - train loss : 0.0000206  /  test loss : 0.5648594
+           train acc : 1.0000000  /  test acc : 0.8866667
+@@@@@@@ save model : epoch 400
+epoch 410 - train loss : 0.0000161  /  test loss : 0.5611105
+           train acc : 1.0000000  /  test acc : 0.8833333
+epoch 420 - train loss : 0.0000158  /  test loss : 0.5620501
+           train acc : 1.0000000  /  test acc : 0.8826667
+epoch 430 - train loss : 0.0000127  /  test loss : 0.5631287
+           train acc : 1.0000000  /  test acc : 0.8840000
+epoch 440 - train loss : 0.0000163  /  test loss : 0.5587773
+           train acc : 1.0000000  /  test acc : 0.8826667
+epoch 450 - train loss : 0.0000125  /  test loss : 0.5504666
+           train acc : 1.0000000  /  test acc : 0.8846667
+@@@@@@@ save model : epoch 450
+epoch 460 - train loss : 0.0000197  /  test loss : 0.5549489
+           train acc : 1.0000000  /  test acc : 0.8813333
+epoch 470 - train loss : 0.0000138  /  test loss : 0.5502938
+           train acc : 1.0000000  /  test acc : 0.8840000
+epoch 480 - train loss : 0.0000163  /  test loss : 0.5776196
+           train acc : 1.0000000  /  test acc : 0.8853333
+epoch 490 - train loss : 0.0000145  /  test loss : 0.5716978
+           train acc : 1.0000000  /  test acc : 0.8880000
+epoch 500 - train loss : 0.0000144  /  test loss : 0.5693259
+           train acc : 1.0000000  /  test acc : 0.8833333
+@@@@@@@ save model : epoch 500
+epoch 510 - train loss : 0.0000112  /  test loss : 0.5647669
+           train acc : 1.0000000  /  test acc : 0.8813333
+epoch 520 - train loss : 0.0000129  /  test loss : 0.5720377
+           train acc : 1.0000000  /  test acc : 0.8846667
+epoch 530 - train loss : 0.0000170  /  test loss : 0.5669540
+           train acc : 1.0000000  /  test acc : 0.8833333
+epoch 540 - train loss : 0.0000125  /  test loss : 0.5652350
+           train acc : 1.0000000  /  test acc : 0.8866667
+epoch 550 - train loss : 0.0000126  /  test loss : 0.5710271
+           train acc : 1.0000000  /  test acc : 0.8846667
+@@@@@@@ save model : epoch 550
+epoch 560 - train loss : 0.0000131  /  test loss : 0.5733808
+           train acc : 1.0000000  /  test acc : 0.8860000
+epoch 570 - train loss : 0.0000137  /  test loss : 0.5672450
+           train acc : 1.0000000  /  test acc : 0.8866667
+epoch 580 - train loss : 0.0000116  /  test loss : 0.5677607
+           train acc : 1.0000000  /  test acc : 0.8853333
+epoch 590 - train loss : 0.0000119  /  test loss : 0.5612730
+           train acc : 1.0000000  /  test acc : 0.8806667
+epoch 600 - train loss : 0.0000091  /  test loss : 0.5777044
+           train acc : 1.0000000  /  test acc : 0.8846667
+@@@@@@@ save model : epoch 600
+epoch 610 - train loss : 0.0000090  /  test loss : 0.5882375
+           train acc : 1.0000000  /  test acc : 0.8846667
+epoch 620 - train loss : 0.0000070  /  test loss : 0.5813095
+           train acc : 1.0000000  /  test acc : 0.8873333
+epoch 630 - train loss : 0.0000064  /  test loss : 0.5899446
+           train acc : 1.0000000  /  test acc : 0.8866667
+epoch 640 - train loss : 0.0000063  /  test loss : 0.6035662
+           train acc : 1.0000000  /  test acc : 0.8866667
+epoch 650 - train loss : 0.0000059  /  test loss : 0.6061687
+           train acc : 1.0000000  /  test acc : 0.8813333
+@@@@@@@ save model : epoch 650
+epoch 660 - train loss : 0.0000069  /  test loss : 0.5915034
+           train acc : 1.0000000  /  test acc : 0.8866667
+epoch 670 - train loss : 0.0000055  /  test loss : 0.5954372
+           train acc : 1.0000000  /  test acc : 0.8806667
+epoch 680 - train loss : 0.0000045  /  test loss : 0.5789382
+           train acc : 1.0000000  /  test acc : 0.8840000
+epoch 690 - train loss : 0.0000030  /  test loss : 0.5953529
+           train acc : 1.0000000  /  test acc : 0.8860000
+epoch 700 - train loss : 0.0000026  /  test loss : 0.6119319
+           train acc : 1.0000000  /  test acc : 0.8866667
+@@@@@@@ save model : epoch 700
+epoch 710 - train loss : 0.0000026  /  test loss : 0.5892626
+           train acc : 1.0000000  /  test acc : 0.8846667
+epoch 720 - train loss : 0.0000022  /  test loss : 0.6020302
+           train acc : 1.0000000  /  test acc : 0.8880000
+epoch 730 - train loss : 0.0000018  /  test loss : 0.6064537
+           train acc : 1.0000000  /  test acc : 0.8833333
+epoch 740 - train loss : 0.0000024  /  test loss : 0.6113637
+           train acc : 1.0000000  /  test acc : 0.8840000
+epoch 750 - train loss : 0.0000016  /  test loss : 0.6278216
+           train acc : 1.0000000  /  test acc : 0.8846667
+@@@@@@@ save model : epoch 750
+epoch 760 - train loss : 0.0000015  /  test loss : 0.6385472
+           train acc : 1.0000000  /  test acc : 0.8820000
+epoch 770 - train loss : 0.0000012  /  test loss : 0.6638622
+           train acc : 1.0000000  /  test acc : 0.8840000
+epoch 780 - train loss : 0.0000008  /  test loss : 0.6388911
+           train acc : 1.0000000  /  test acc : 0.8846667
+epoch 790 - train loss : 0.0000015  /  test loss : 0.6426663
+           train acc : 1.0000000  /  test acc : 0.8866667
+epoch 800 - train loss : 0.0000006  /  test loss : 0.6535371
+           train acc : 1.0000000  /  test acc : 0.8840000
+@@@@@@@ save model : epoch 800
+epoch 810 - train loss : 0.0000008  /  test loss : 0.6370960
+           train acc : 1.0000000  /  test acc : 0.8793333
+epoch 820 - train loss : 0.0000008  /  test loss : 0.6718673
+           train acc : 1.0000000  /  test acc : 0.8833333
+epoch 830 - train loss : 0.0000005  /  test loss : 0.6716805
+           train acc : 1.0000000  /  test acc : 0.8800000
+epoch 840 - train loss : 0.0000004  /  test loss : 0.6803933
+           train acc : 1.0000000  /  test acc : 0.8853333
+epoch 850 - train loss : 0.0000005  /  test loss : 0.6661933
+           train acc : 1.0000000  /  test acc : 0.8833333
+@@@@@@@ save model : epoch 850
+epoch 860 - train loss : 0.0000006  /  test loss : 0.7011651
+           train acc : 1.0000000  /  test acc : 0.8793333
+epoch 870 - train loss : 0.0000005  /  test loss : 0.7088776
+           train acc : 1.0000000  /  test acc : 0.8866667
+epoch 880 - train loss : 0.0000003  /  test loss : 0.7022932
+           train acc : 1.0000000  /  test acc : 0.8846667
+epoch 890 - train loss : 0.0000006  /  test loss : 0.7031228
+           train acc : 1.0000000  /  test acc : 0.8833333
+epoch 900 - train loss : 0.0000002  /  test loss : 0.7178101
+           train acc : 1.0000000  /  test acc : 0.8846667
+@@@@@@@ save model : epoch 900
+epoch 910 - train loss : 0.0000002  /  test loss : 0.7077649
+           train acc : 1.0000000  /  test acc : 0.8853333
+epoch 920 - train loss : 0.0000002  /  test loss : 0.7157016
+           train acc : 1.0000000  /  test acc : 0.8860000
+epoch 930 - train loss : 0.0000001  /  test loss : 0.6980528
+           train acc : 1.0000000  /  test acc : 0.8826667
+epoch 940 - train loss : 0.0000003  /  test loss : 0.7065134
+           train acc : 1.0000000  /  test acc : 0.8833333
+epoch 950 - train loss : 0.0000002  /  test loss : 0.7228268
+           train acc : 1.0000000  /  test acc : 0.8846667
+@@@@@@@ save model : epoch 950
+epoch 960 - train loss : 0.0000002  /  test loss : 0.7541000
+           train acc : 1.0000000  /  test acc : 0.8800000
+epoch 970 - train loss : 0.0000001  /  test loss : 0.7339442
+           train acc : 1.0000000  /  test acc : 0.8820000
+epoch 980 - train loss : 0.0000002  /  test loss : 0.7403139
+           train acc : 1.0000000  /  test acc : 0.8820000
+epoch 990 - train loss : 0.0000002  /  test loss : 0.7539416
+           train acc : 1.0000000  /  test acc : 0.8813333
+epoch 1000 - train loss : 0.0000001  /  test loss : 0.7378079
+           train acc : 1.0000000  /  test acc : 0.8826667
+@@@@@@@ save model : epoch 1000
+training complete! - calculation time : 175.1533498764038   seconds
+
+
+[Training]mem_band_env_20.0_model2
+mem_band_env data shape  -  20.0 ms
+train set : torch.Size([5000, 10, 200]) torch.Size([5000, 5])
+test set : torch.Size([1500, 10, 200]) torch.Size([1500, 5])
+epoch 0 - train loss : 0.3901981  /  test loss : 1.0104363
+           train acc : 0.7656000  /  test acc : 0.2000000
+@@@@@@@ save model : epoch 0
+epoch 10 - train loss : 0.0037632  /  test loss : 0.4228847
+           train acc : 0.9992000  /  test acc : 0.8766667
+epoch 20 - train loss : 0.0004851  /  test loss : 0.3624458
+           train acc : 1.0000000  /  test acc : 0.8846667
+epoch 30 - train loss : 0.0001768  /  test loss : 0.4158716
+           train acc : 1.0000000  /  test acc : 0.8860000
+epoch 40 - train loss : 0.0001212  /  test loss : 0.4385834
+           train acc : 1.0000000  /  test acc : 0.8746667
+epoch 50 - train loss : 0.0000814  /  test loss : 0.4662568
+           train acc : 1.0000000  /  test acc : 0.8860000
+@@@@@@@ save model : epoch 50
+epoch 60 - train loss : 0.0000579  /  test loss : 0.4445649
+           train acc : 1.0000000  /  test acc : 0.8873333
+epoch 70 - train loss : 0.0000674  /  test loss : 0.4721610
+           train acc : 1.0000000  /  test acc : 0.8793333
+epoch 80 - train loss : 0.0000418  /  test loss : 0.4551340
+           train acc : 1.0000000  /  test acc : 0.8866667
+epoch 90 - train loss : 0.0000360  /  test loss : 0.4699472
+           train acc : 1.0000000  /  test acc : 0.8806667
+epoch 100 - train loss : 0.0000333  /  test loss : 0.5090605
+           train acc : 1.0000000  /  test acc : 0.8800000
+@@@@@@@ save model : epoch 100
+epoch 110 - train loss : 0.0000255  /  test loss : 0.5025587
+           train acc : 1.0000000  /  test acc : 0.8853333
+epoch 120 - train loss : 0.0000256  /  test loss : 0.4956477
+           train acc : 1.0000000  /  test acc : 0.8880000
+epoch 130 - train loss : 0.0118008  /  test loss : 0.3013551
+           train acc : 0.9970000  /  test acc : 0.8820000
+epoch 140 - train loss : 0.0001814  /  test loss : 0.4454641
+           train acc : 1.0000000  /  test acc : 0.8673333
+epoch 150 - train loss : 0.0001143  /  test loss : 0.4582749
+           train acc : 1.0000000  /  test acc : 0.8666667
+@@@@@@@ save model : epoch 150
+epoch 160 - train loss : 0.0000925  /  test loss : 0.5023082
+           train acc : 1.0000000  /  test acc : 0.8660000
+epoch 170 - train loss : 0.0000831  /  test loss : 0.5162588
+           train acc : 1.0000000  /  test acc : 0.8686667
+epoch 180 - train loss : 0.0000596  /  test loss : 0.5088703
+           train acc : 1.0000000  /  test acc : 0.8680000
+epoch 190 - train loss : 0.0000554  /  test loss : 0.4960394
+           train acc : 1.0000000  /  test acc : 0.8666667
+epoch 200 - train loss : 0.0000314  /  test loss : 0.5245745
+           train acc : 1.0000000  /  test acc : 0.8693333
+@@@@@@@ save model : epoch 200
+epoch 210 - train loss : 0.0000338  /  test loss : 0.5545812
+           train acc : 1.0000000  /  test acc : 0.8686667
+epoch 220 - train loss : 0.0000281  /  test loss : 0.5229226
+           train acc : 1.0000000  /  test acc : 0.8693333
+epoch 230 - train loss : 0.0000221  /  test loss : 0.5443830
+           train acc : 1.0000000  /  test acc : 0.8680000
+epoch 240 - train loss : 0.0000234  /  test loss : 0.5415934
+           train acc : 1.0000000  /  test acc : 0.8660000
+epoch 250 - train loss : 0.0000254  /  test loss : 0.5454424
+           train acc : 1.0000000  /  test acc : 0.8700000
+@@@@@@@ save model : epoch 250
+epoch 260 - train loss : 0.0000198  /  test loss : 0.5548432
+           train acc : 1.0000000  /  test acc : 0.8660000
+epoch 270 - train loss : 0.0000166  /  test loss : 0.5528735
+           train acc : 1.0000000  /  test acc : 0.8680000
+epoch 280 - train loss : 0.0000139  /  test loss : 0.5738297
+           train acc : 1.0000000  /  test acc : 0.8680000
+epoch 290 - train loss : 0.0000158  /  test loss : 0.5647407
+           train acc : 1.0000000  /  test acc : 0.8680000
+epoch 300 - train loss : 0.0000160  /  test loss : 0.5627774
+           train acc : 1.0000000  /  test acc : 0.8686667
+@@@@@@@ save model : epoch 300
+epoch 310 - train loss : 0.0000147  /  test loss : 0.5809354
+           train acc : 1.0000000  /  test acc : 0.8673333
+epoch 320 - train loss : 0.0000167  /  test loss : 0.5697689
+           train acc : 1.0000000  /  test acc : 0.8686667
+epoch 330 - train loss : 0.0000103  /  test loss : 0.5855345
+           train acc : 1.0000000  /  test acc : 0.8673333
+epoch 340 - train loss : 0.0000114  /  test loss : 0.5581906
+           train acc : 1.0000000  /  test acc : 0.8693333
+epoch 350 - train loss : 0.0000108  /  test loss : 0.5895598
+           train acc : 1.0000000  /  test acc : 0.8686667
+@@@@@@@ save model : epoch 350
+epoch 360 - train loss : 0.0000620  /  test loss : 0.5995574
+           train acc : 1.0000000  /  test acc : 0.8613333
+epoch 370 - train loss : 0.0000217  /  test loss : 0.5718407
+           train acc : 1.0000000  /  test acc : 0.8680000
+epoch 380 - train loss : 0.0000208  /  test loss : 0.5761906
+           train acc : 1.0000000  /  test acc : 0.8666667
+epoch 390 - train loss : 0.0000198  /  test loss : 0.5806528
+           train acc : 1.0000000  /  test acc : 0.8680000
+epoch 400 - train loss : 0.0000130  /  test loss : 0.5729232
+           train acc : 1.0000000  /  test acc : 0.8700000
+@@@@@@@ save model : epoch 400
+epoch 410 - train loss : 0.0000142  /  test loss : 0.5625069
+           train acc : 1.0000000  /  test acc : 0.8693333
+epoch 420 - train loss : 0.0000115  /  test loss : 0.5707588
+           train acc : 1.0000000  /  test acc : 0.8660000
+epoch 430 - train loss : 0.0000098  /  test loss : 0.5755148
+           train acc : 1.0000000  /  test acc : 0.8686667
+epoch 440 - train loss : 0.0000139  /  test loss : 0.5691299
+           train acc : 1.0000000  /  test acc : 0.8700000
+epoch 450 - train loss : 0.0000103  /  test loss : 0.5638797
+           train acc : 1.0000000  /  test acc : 0.8700000
+@@@@@@@ save model : epoch 450
+epoch 460 - train loss : 0.0000147  /  test loss : 0.5716011
+           train acc : 1.0000000  /  test acc : 0.8680000
+epoch 470 - train loss : 0.0000122  /  test loss : 0.5644296
+           train acc : 1.0000000  /  test acc : 0.8680000
+epoch 480 - train loss : 0.0000126  /  test loss : 0.5862537
+           train acc : 1.0000000  /  test acc : 0.8700000
+epoch 490 - train loss : 0.0000120  /  test loss : 0.5873571
+           train acc : 1.0000000  /  test acc : 0.8713333
+epoch 500 - train loss : 0.0000139  /  test loss : 0.5865002
+           train acc : 1.0000000  /  test acc : 0.8666667
+@@@@@@@ save model : epoch 500
+epoch 510 - train loss : 0.0000102  /  test loss : 0.5860153
+           train acc : 1.0000000  /  test acc : 0.8666667
+epoch 520 - train loss : 0.0000107  /  test loss : 0.5804051
+           train acc : 1.0000000  /  test acc : 0.8693333
+epoch 530 - train loss : 0.0000150  /  test loss : 0.5963447
+           train acc : 1.0000000  /  test acc : 0.8686667
+epoch 540 - train loss : 0.0000112  /  test loss : 0.5784292
+           train acc : 1.0000000  /  test acc : 0.8700000
+epoch 550 - train loss : 0.0000104  /  test loss : 0.5669602
+           train acc : 1.0000000  /  test acc : 0.8700000
+@@@@@@@ save model : epoch 550
+epoch 560 - train loss : 0.0000102  /  test loss : 0.5878607
+           train acc : 1.0000000  /  test acc : 0.8686667
+epoch 570 - train loss : 0.0000114  /  test loss : 0.5885581
+           train acc : 1.0000000  /  test acc : 0.8673333
+epoch 580 - train loss : 0.0000139  /  test loss : 0.5824634
+           train acc : 1.0000000  /  test acc : 0.8693333
+epoch 590 - train loss : 0.0000115  /  test loss : 0.5624966
+           train acc : 1.0000000  /  test acc : 0.8640000
+epoch 600 - train loss : 0.0000111  /  test loss : 0.5590822
+           train acc : 1.0000000  /  test acc : 0.8713333
+@@@@@@@ save model : epoch 600
+epoch 610 - train loss : 0.0000095  /  test loss : 0.6064902
+           train acc : 1.0000000  /  test acc : 0.8700000
+epoch 620 - train loss : 0.0000082  /  test loss : 0.6244234
+           train acc : 1.0000000  /  test acc : 0.8700000
+epoch 630 - train loss : 0.0000080  /  test loss : 0.6128020
+           train acc : 1.0000000  /  test acc : 0.8706667
+epoch 640 - train loss : 0.0000068  /  test loss : 0.5913868
+           train acc : 1.0000000  /  test acc : 0.8686667
+epoch 650 - train loss : 0.0000090  /  test loss : 0.6097512
+           train acc : 1.0000000  /  test acc : 0.8693333
+@@@@@@@ save model : epoch 650
+epoch 660 - train loss : 0.0000071  /  test loss : 0.6258877
+           train acc : 1.0000000  /  test acc : 0.8680000
+epoch 670 - train loss : 0.0000071  /  test loss : 0.6556192
+           train acc : 1.0000000  /  test acc : 0.8640000
+epoch 680 - train loss : 0.0000063  /  test loss : 0.6299377
+           train acc : 1.0000000  /  test acc : 0.8673333
+epoch 690 - train loss : 0.0000043  /  test loss : 0.6340158
+           train acc : 1.0000000  /  test acc : 0.8693333
+epoch 700 - train loss : 0.0000029  /  test loss : 0.6274697
+           train acc : 1.0000000  /  test acc : 0.8706667
+@@@@@@@ save model : epoch 700
+epoch 710 - train loss : 0.0000034  /  test loss : 0.6198903
+           train acc : 1.0000000  /  test acc : 0.8660000
+epoch 720 - train loss : 0.0001483  /  test loss : 0.4230890
+           train acc : 1.0000000  /  test acc : 0.8846667
+epoch 730 - train loss : 0.0000276  /  test loss : 0.4443037
+           train acc : 1.0000000  /  test acc : 0.8833333
+epoch 740 - train loss : 0.0000178  /  test loss : 0.4726282
+           train acc : 1.0000000  /  test acc : 0.8846667
+epoch 750 - train loss : 0.0000160  /  test loss : 0.4773940
+           train acc : 1.0000000  /  test acc : 0.8846667
+@@@@@@@ save model : epoch 750
+epoch 760 - train loss : 0.0000114  /  test loss : 0.4805659
+           train acc : 1.0000000  /  test acc : 0.8833333
+epoch 770 - train loss : 0.0000100  /  test loss : 0.5045549
+           train acc : 1.0000000  /  test acc : 0.8786667
+epoch 780 - train loss : 0.0000051  /  test loss : 0.5026925
+           train acc : 1.0000000  /  test acc : 0.8793333
+epoch 790 - train loss : 0.0000096  /  test loss : 0.5190288
+           train acc : 1.0000000  /  test acc : 0.8813333
+epoch 800 - train loss : 0.0000048  /  test loss : 0.5121970
+           train acc : 1.0000000  /  test acc : 0.8786667
+@@@@@@@ save model : epoch 800
+epoch 810 - train loss : 0.0000040  /  test loss : 0.5125147
+           train acc : 1.0000000  /  test acc : 0.8773333
+epoch 820 - train loss : 0.0000041  /  test loss : 0.5498481
+           train acc : 1.0000000  /  test acc : 0.8760000
+epoch 830 - train loss : 0.0000029  /  test loss : 0.5401492
+           train acc : 1.0000000  /  test acc : 0.8746667
+epoch 840 - train loss : 0.0000024  /  test loss : 0.5383301
+           train acc : 1.0000000  /  test acc : 0.8813333
+epoch 850 - train loss : 0.0000016  /  test loss : 0.5228961
+           train acc : 1.0000000  /  test acc : 0.8773333
+@@@@@@@ save model : epoch 850
+epoch 860 - train loss : 0.0000028  /  test loss : 0.5558855
+           train acc : 1.0000000  /  test acc : 0.8733333
+epoch 870 - train loss : 0.0000016  /  test loss : 0.6202778
+           train acc : 1.0000000  /  test acc : 0.8760000
+epoch 880 - train loss : 0.0000016  /  test loss : 0.5876242
+           train acc : 1.0000000  /  test acc : 0.8753333
+epoch 890 - train loss : 0.0000026  /  test loss : 0.5770337
+           train acc : 1.0000000  /  test acc : 0.8773333
+epoch 900 - train loss : 0.0000007  /  test loss : 0.5987418
+           train acc : 1.0000000  /  test acc : 0.8760000
+@@@@@@@ save model : epoch 900
+epoch 910 - train loss : 0.0000011  /  test loss : 0.6026805
+           train acc : 1.0000000  /  test acc : 0.8760000
+epoch 920 - train loss : 0.0000011  /  test loss : 0.5894936
+           train acc : 1.0000000  /  test acc : 0.8766667
+epoch 930 - train loss : 0.0000008  /  test loss : 0.5825269
+           train acc : 1.0000000  /  test acc : 0.8733333
+epoch 940 - train loss : 0.0000009  /  test loss : 0.5850902
+           train acc : 1.0000000  /  test acc : 0.8740000
+epoch 950 - train loss : 0.0000009  /  test loss : 0.6283549
+           train acc : 1.0000000  /  test acc : 0.8740000
+@@@@@@@ save model : epoch 950
+epoch 960 - train loss : 0.0000009  /  test loss : 0.6235239
+           train acc : 1.0000000  /  test acc : 0.8713333
+epoch 970 - train loss : 0.0000006  /  test loss : 0.5946261
+           train acc : 1.0000000  /  test acc : 0.8753333
+epoch 980 - train loss : 0.0000008  /  test loss : 0.6207930
+           train acc : 1.0000000  /  test acc : 0.8700000
+epoch 990 - train loss : 0.0000006  /  test loss : 0.6173527
+           train acc : 1.0000000  /  test acc : 0.8693333
+epoch 1000 - train loss : 0.0000006  /  test loss : 0.6214821
+           train acc : 1.0000000  /  test acc : 0.8706667
+@@@@@@@ save model : epoch 1000
+training complete! - calculation time : 175.73645615577698   seconds
+
+
+[Training]mem_band_env_20.0_model2
+mem_band_env data shape  -  20.0 ms
+train set : torch.Size([5000, 10, 200]) torch.Size([5000, 5])
+test set : torch.Size([1500, 10, 200]) torch.Size([1500, 5])
+epoch 0 - train loss : 0.3918673  /  test loss : 1.0108414
+           train acc : 0.7640000  /  test acc : 0.2000000
+@@@@@@@ save model : epoch 0
+epoch 10 - train loss : 0.0017200  /  test loss : 0.5088419
+           train acc : 1.0000000  /  test acc : 0.8580000
+epoch 20 - train loss : 0.0003935  /  test loss : 0.3895550
+           train acc : 1.0000000  /  test acc : 0.8833333
+epoch 30 - train loss : 0.0002058  /  test loss : 0.4017484
+           train acc : 1.0000000  /  test acc : 0.8893333
+epoch 40 - train loss : 0.0001202  /  test loss : 0.4288201
+           train acc : 1.0000000  /  test acc : 0.8846667
+epoch 50 - train loss : 0.0000877  /  test loss : 0.4677506
+           train acc : 1.0000000  /  test acc : 0.8826667
+@@@@@@@ save model : epoch 50
+epoch 60 - train loss : 0.0000606  /  test loss : 0.4498350
+           train acc : 1.0000000  /  test acc : 0.8860000
+epoch 70 - train loss : 0.0000684  /  test loss : 0.5217937
+           train acc : 1.0000000  /  test acc : 0.8780000
+epoch 80 - train loss : 0.0000426  /  test loss : 0.4764824
+           train acc : 1.0000000  /  test acc : 0.8873333
+epoch 90 - train loss : 0.0000355  /  test loss : 0.4778981
+           train acc : 1.0000000  /  test acc : 0.8860000
+epoch 100 - train loss : 0.0000287  /  test loss : 0.5266784
+           train acc : 1.0000000  /  test acc : 0.8820000
+@@@@@@@ save model : epoch 100
+epoch 110 - train loss : 0.0000262  /  test loss : 0.5160111
+           train acc : 1.0000000  /  test acc : 0.8806667
+epoch 120 - train loss : 0.0000251  /  test loss : 0.5043739
+           train acc : 1.0000000  /  test acc : 0.8846667
+epoch 130 - train loss : 0.0000411  /  test loss : 0.4195915
+           train acc : 1.0000000  /  test acc : 0.8906667
+epoch 140 - train loss : 0.0000155  /  test loss : 0.5092980
+           train acc : 1.0000000  /  test acc : 0.8853333
+epoch 150 - train loss : 0.0000148  /  test loss : 0.5013136
+           train acc : 1.0000000  /  test acc : 0.8873333
+@@@@@@@ save model : epoch 150
+epoch 160 - train loss : 0.0000160  /  test loss : 0.5139397
+           train acc : 1.0000000  /  test acc : 0.8853333
+epoch 170 - train loss : 0.0000149  /  test loss : 0.5405993
+           train acc : 1.0000000  /  test acc : 0.8820000
+epoch 180 - train loss : 0.0000168  /  test loss : 0.5204045
+           train acc : 1.0000000  /  test acc : 0.8893333
+epoch 190 - train loss : 0.0000131  /  test loss : 0.5027771
+           train acc : 1.0000000  /  test acc : 0.8886667
+epoch 200 - train loss : 0.0000084  /  test loss : 0.5442695
+           train acc : 1.0000000  /  test acc : 0.8833333
+@@@@@@@ save model : epoch 200
+epoch 210 - train loss : 0.0000106  /  test loss : 0.5605859
+           train acc : 1.0000000  /  test acc : 0.8820000
+epoch 220 - train loss : 0.0000081  /  test loss : 0.5249815
+           train acc : 1.0000000  /  test acc : 0.8886667
+epoch 230 - train loss : 0.0000072  /  test loss : 0.5572581
+           train acc : 1.0000000  /  test acc : 0.8820000
+epoch 240 - train loss : 0.0000087  /  test loss : 0.5481610
+           train acc : 1.0000000  /  test acc : 0.8860000
+epoch 250 - train loss : 0.0000081  /  test loss : 0.5645580
+           train acc : 1.0000000  /  test acc : 0.8833333
+@@@@@@@ save model : epoch 250
+epoch 260 - train loss : 0.0000067  /  test loss : 0.5525961
+           train acc : 1.0000000  /  test acc : 0.8853333
+epoch 270 - train loss : 0.0000062  /  test loss : 0.5705285
+           train acc : 1.0000000  /  test acc : 0.8820000
+epoch 280 - train loss : 0.0000054  /  test loss : 0.5808866
+           train acc : 1.0000000  /  test acc : 0.8866667
+epoch 290 - train loss : 0.0000057  /  test loss : 0.5602035
+           train acc : 1.0000000  /  test acc : 0.8866667
+epoch 300 - train loss : 0.0000055  /  test loss : 0.5696714
+           train acc : 1.0000000  /  test acc : 0.8860000
+@@@@@@@ save model : epoch 300
+epoch 310 - train loss : 0.0000063  /  test loss : 0.5944912
+           train acc : 1.0000000  /  test acc : 0.8806667
+epoch 320 - train loss : 0.0000057  /  test loss : 0.5654295
+           train acc : 1.0000000  /  test acc : 0.8860000
+epoch 330 - train loss : 0.0000043  /  test loss : 0.5880447
+           train acc : 1.0000000  /  test acc : 0.8846667
+epoch 340 - train loss : 0.0000047  /  test loss : 0.5631613
+           train acc : 1.0000000  /  test acc : 0.8853333
+epoch 350 - train loss : 0.0000043  /  test loss : 0.5956704
+           train acc : 1.0000000  /  test acc : 0.8813333
+@@@@@@@ save model : epoch 350
+epoch 360 - train loss : 0.0101014  /  test loss : 0.5621009
+           train acc : 0.9960000  /  test acc : 0.8933333
+epoch 370 - train loss : 0.0001096  /  test loss : 0.5199717
+           train acc : 1.0000000  /  test acc : 0.8753333
+epoch 380 - train loss : 0.0000554  /  test loss : 0.5080216
+           train acc : 1.0000000  /  test acc : 0.8913333
+epoch 390 - train loss : 0.0000367  /  test loss : 0.5208556
+           train acc : 1.0000000  /  test acc : 0.8926667
+epoch 400 - train loss : 0.0000256  /  test loss : 0.5353348
+           train acc : 1.0000000  /  test acc : 0.8973333
+@@@@@@@ save model : epoch 400
+epoch 410 - train loss : 0.0000243  /  test loss : 0.5242836
+           train acc : 1.0000000  /  test acc : 0.8926667
+epoch 420 - train loss : 0.0000210  /  test loss : 0.5164614
+           train acc : 1.0000000  /  test acc : 0.8940000
+epoch 430 - train loss : 0.0000176  /  test loss : 0.5237610
+           train acc : 1.0000000  /  test acc : 0.8920000
+epoch 440 - train loss : 0.0000221  /  test loss : 0.5195300
+           train acc : 1.0000000  /  test acc : 0.8920000
+epoch 450 - train loss : 0.0000161  /  test loss : 0.5207473
+           train acc : 1.0000000  /  test acc : 0.8906667
+@@@@@@@ save model : epoch 450
+epoch 460 - train loss : 0.0000219  /  test loss : 0.5187489
+           train acc : 1.0000000  /  test acc : 0.8920000
+epoch 470 - train loss : 0.0000209  /  test loss : 0.5260355
+           train acc : 1.0000000  /  test acc : 0.8940000
+epoch 480 - train loss : 0.0000184  /  test loss : 0.5545379
+           train acc : 1.0000000  /  test acc : 0.8920000
+epoch 490 - train loss : 0.0000191  /  test loss : 0.5585852
+           train acc : 1.0000000  /  test acc : 0.8926667
+epoch 500 - train loss : 0.0000191  /  test loss : 0.5376362
+           train acc : 1.0000000  /  test acc : 0.8913333
+@@@@@@@ save model : epoch 500
+epoch 510 - train loss : 0.0000159  /  test loss : 0.5305040
+           train acc : 1.0000000  /  test acc : 0.8893333
+epoch 520 - train loss : 0.0000150  /  test loss : 0.5415198
+           train acc : 1.0000000  /  test acc : 0.8913333
+epoch 530 - train loss : 0.0000215  /  test loss : 0.5470826
+           train acc : 1.0000000  /  test acc : 0.8873333
+epoch 540 - train loss : 0.0000166  /  test loss : 0.5412607
+           train acc : 1.0000000  /  test acc : 0.8920000
+epoch 550 - train loss : 0.0000139  /  test loss : 0.5359718
+           train acc : 1.0000000  /  test acc : 0.8946667
+@@@@@@@ save model : epoch 550
+epoch 560 - train loss : 0.0000156  /  test loss : 0.5517235
+           train acc : 1.0000000  /  test acc : 0.8900000
+epoch 570 - train loss : 0.0000259  /  test loss : 0.5486863
+           train acc : 1.0000000  /  test acc : 0.8873333
+epoch 580 - train loss : 0.0000204  /  test loss : 0.5503397
+           train acc : 1.0000000  /  test acc : 0.8906667
+epoch 590 - train loss : 0.0000157  /  test loss : 0.5224448
+           train acc : 1.0000000  /  test acc : 0.8960000
+epoch 600 - train loss : 0.0000124  /  test loss : 0.5401395
+           train acc : 1.0000000  /  test acc : 0.8966667
+@@@@@@@ save model : epoch 600
+epoch 610 - train loss : 0.0000112  /  test loss : 0.5738624
+           train acc : 1.0000000  /  test acc : 0.8913333
+epoch 620 - train loss : 0.0000090  /  test loss : 0.5870521
+           train acc : 1.0000000  /  test acc : 0.8880000
+epoch 630 - train loss : 0.0000083  /  test loss : 0.5722669
+           train acc : 1.0000000  /  test acc : 0.8913333
+epoch 640 - train loss : 0.0000083  /  test loss : 0.5838788
+           train acc : 1.0000000  /  test acc : 0.8900000
+epoch 650 - train loss : 0.0000061  /  test loss : 0.5865064
+           train acc : 1.0000000  /  test acc : 0.8886667
+@@@@@@@ save model : epoch 650
+epoch 660 - train loss : 0.0000067  /  test loss : 0.6191641
+           train acc : 1.0000000  /  test acc : 0.8820000
+epoch 670 - train loss : 0.0000070  /  test loss : 0.6642626
+           train acc : 1.0000000  /  test acc : 0.8746667
+epoch 680 - train loss : 0.0000056  /  test loss : 0.6024960
+           train acc : 1.0000000  /  test acc : 0.8806667
+epoch 690 - train loss : 0.0000031  /  test loss : 0.6378105
+           train acc : 1.0000000  /  test acc : 0.8813333
+epoch 700 - train loss : 0.0000025  /  test loss : 0.6248830
+           train acc : 1.0000000  /  test acc : 0.8860000
+@@@@@@@ save model : epoch 700
+epoch 710 - train loss : 0.0000028  /  test loss : 0.5973436
+           train acc : 1.0000000  /  test acc : 0.8873333
+epoch 720 - train loss : 0.0000026  /  test loss : 0.6291465
+           train acc : 1.0000000  /  test acc : 0.8866667
+epoch 730 - train loss : 0.0000019  /  test loss : 0.6365425
+           train acc : 1.0000000  /  test acc : 0.8873333
+epoch 740 - train loss : 0.0000027  /  test loss : 0.6397090
+           train acc : 1.0000000  /  test acc : 0.8853333
+epoch 750 - train loss : 0.0000017  /  test loss : 0.6581092
+           train acc : 1.0000000  /  test acc : 0.8853333
+@@@@@@@ save model : epoch 750
+epoch 760 - train loss : 0.0000015  /  test loss : 0.6482577
+           train acc : 1.0000000  /  test acc : 0.8873333
+epoch 770 - train loss : 0.0000015  /  test loss : 0.6995543
+           train acc : 1.0000000  /  test acc : 0.8840000
+epoch 780 - train loss : 0.0000009  /  test loss : 0.6864411
+           train acc : 1.0000000  /  test acc : 0.8820000
+epoch 790 - train loss : 0.0000013  /  test loss : 0.6885577
+           train acc : 1.0000000  /  test acc : 0.8833333
+epoch 800 - train loss : 0.0000008  /  test loss : 0.6909835
+           train acc : 1.0000000  /  test acc : 0.8860000
+@@@@@@@ save model : epoch 800
+epoch 810 - train loss : 0.0000011  /  test loss : 0.6486207
+           train acc : 1.0000000  /  test acc : 0.8886667
+epoch 820 - train loss : 0.0000011  /  test loss : 0.7164542
+           train acc : 1.0000000  /  test acc : 0.8826667
+epoch 830 - train loss : 0.0000005  /  test loss : 0.6895365
+           train acc : 1.0000000  /  test acc : 0.8840000
+epoch 840 - train loss : 0.0000005  /  test loss : 0.6915189
+           train acc : 1.0000000  /  test acc : 0.8866667
+epoch 850 - train loss : 0.0000005  /  test loss : 0.6831386
+           train acc : 1.0000000  /  test acc : 0.8853333
+@@@@@@@ save model : epoch 850
+epoch 860 - train loss : 0.0000006  /  test loss : 0.6808637
+           train acc : 1.0000000  /  test acc : 0.8853333
+epoch 870 - train loss : 0.0000007  /  test loss : 0.7733396
+           train acc : 1.0000000  /  test acc : 0.8780000
+epoch 880 - train loss : 0.0000004  /  test loss : 0.7172215
+           train acc : 1.0000000  /  test acc : 0.8833333
+epoch 890 - train loss : 0.0000004  /  test loss : 0.7329022
+           train acc : 1.0000000  /  test acc : 0.8820000
+epoch 900 - train loss : 0.0000003  /  test loss : 0.7427950
+           train acc : 1.0000000  /  test acc : 0.8846667
+@@@@@@@ save model : epoch 900
+epoch 910 - train loss : 0.0000002  /  test loss : 0.7504629
+           train acc : 1.0000000  /  test acc : 0.8853333
+epoch 920 - train loss : 0.0000002  /  test loss : 0.7474032
+           train acc : 1.0000000  /  test acc : 0.8820000
+epoch 930 - train loss : 0.0000002  /  test loss : 0.7438817
+           train acc : 1.0000000  /  test acc : 0.8826667
+epoch 940 - train loss : 0.0000003  /  test loss : 0.7336604
+           train acc : 1.0000000  /  test acc : 0.8846667
+epoch 950 - train loss : 0.0000002  /  test loss : 0.8009976
+           train acc : 1.0000000  /  test acc : 0.8786667
+@@@@@@@ save model : epoch 950
+epoch 960 - train loss : 0.0000002  /  test loss : 0.8057858
+           train acc : 1.0000000  /  test acc : 0.8800000
+epoch 970 - train loss : 0.0000002  /  test loss : 0.7791186
+           train acc : 1.0000000  /  test acc : 0.8806667
+epoch 980 - train loss : 0.0000002  /  test loss : 0.7942153
+           train acc : 1.0000000  /  test acc : 0.8806667
+epoch 990 - train loss : 0.0000001  /  test loss : 0.7940112
+           train acc : 1.0000000  /  test acc : 0.8800000
+epoch 1000 - train loss : 0.0000001  /  test loss : 0.7977191
+           train acc : 1.0000000  /  test acc : 0.8806667
+@@@@@@@ save model : epoch 1000
+training complete! - calculation time : 176.12858819961548   seconds
+
+

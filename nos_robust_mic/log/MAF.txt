@@ -1,0 +1,248 @@
+[Training]MAF_15db_20.0ms
+15db MAF data shape  -  20.0 ms
+train set : torch.Size([5000, 1, 200]) torch.Size([5000, 5])
+test set : torch.Size([1500, 1, 200]) torch.Size([1500, 5])
+epoch 0 - train loss : 0.5819711  /  test loss : 1.0050655
+           train acc : 0.6294000  /  test acc : 0.2000000
+@@@@@@@ save model : epoch 0
+epoch 10 - train loss : 0.0136184  /  test loss : 0.6369924
+           train acc : 0.9956000  /  test acc : 0.7553333
+epoch 20 - train loss : 0.0004527  /  test loss : 0.5662934
+           train acc : 1.0000000  /  test acc : 0.8113333
+epoch 30 - train loss : 0.0002279  /  test loss : 0.5760480
+           train acc : 1.0000000  /  test acc : 0.8120000
+epoch 40 - train loss : 0.0001421  /  test loss : 0.5875974
+           train acc : 1.0000000  /  test acc : 0.8120000
+epoch 50 - train loss : 0.0001103  /  test loss : 0.6036904
+           train acc : 1.0000000  /  test acc : 0.8133333
+epoch 60 - train loss : 0.0000829  /  test loss : 0.6201385
+           train acc : 1.0000000  /  test acc : 0.8160000
+epoch 70 - train loss : 0.0000689  /  test loss : 0.6302558
+           train acc : 1.0000000  /  test acc : 0.8153333
+epoch 80 - train loss : 0.0000464  /  test loss : 0.6357279
+           train acc : 1.0000000  /  test acc : 0.8146667
+epoch 90 - train loss : 0.0000389  /  test loss : 0.6513234
+           train acc : 1.0000000  /  test acc : 0.8153333
+epoch 100 - train loss : 0.0000302  /  test loss : 0.6530240
+           train acc : 1.0000000  /  test acc : 0.8120000
+@@@@@@@ save model : epoch 100
+training complete! - calculation time : 22.583523511886597   seconds
+
+
+[Training]MAF_10db_20.0ms
+10db MAF data shape  -  20.0 ms
+train set : torch.Size([5000, 1, 200]) torch.Size([5000, 5])
+test set : torch.Size([1500, 1, 200]) torch.Size([1500, 5])
+epoch 0 - train loss : 0.5821775  /  test loss : 1.0044159
+           train acc : 0.6268000  /  test acc : 0.2000000
+@@@@@@@ save model : epoch 0
+epoch 10 - train loss : 0.0034583  /  test loss : 0.5228299
+           train acc : 1.0000000  /  test acc : 0.8053333
+epoch 20 - train loss : 0.0003759  /  test loss : 0.5065979
+           train acc : 1.0000000  /  test acc : 0.8180000
+epoch 30 - train loss : 0.0002317  /  test loss : 0.5305816
+           train acc : 1.0000000  /  test acc : 0.8206667
+epoch 40 - train loss : 0.0001414  /  test loss : 0.5445341
+           train acc : 1.0000000  /  test acc : 0.8200000
+epoch 50 - train loss : 0.0001092  /  test loss : 0.5634988
+           train acc : 1.0000000  /  test acc : 0.8193333
+epoch 60 - train loss : 0.0000820  /  test loss : 0.5756669
+           train acc : 1.0000000  /  test acc : 0.8200000
+epoch 70 - train loss : 0.0000665  /  test loss : 0.5883115
+           train acc : 1.0000000  /  test acc : 0.8186667
+epoch 80 - train loss : 0.0000455  /  test loss : 0.5920736
+           train acc : 1.0000000  /  test acc : 0.8193333
+epoch 90 - train loss : 0.0000380  /  test loss : 0.6065769
+           train acc : 1.0000000  /  test acc : 0.8166667
+epoch 100 - train loss : 0.0000298  /  test loss : 0.6093908
+           train acc : 1.0000000  /  test acc : 0.8180000
+@@@@@@@ save model : epoch 100
+training complete! - calculation time : 22.90559434890747   seconds
+
+
+[Training]MAF_5db_20.0ms
+5db MAF data shape  -  20.0 ms
+train set : torch.Size([5000, 1, 200]) torch.Size([5000, 5])
+test set : torch.Size([1500, 1, 200]) torch.Size([1500, 5])
+epoch 0 - train loss : 0.5845443  /  test loss : 1.0045214
+           train acc : 0.6248000  /  test acc : 0.2000000
+@@@@@@@ save model : epoch 0
+epoch 10 - train loss : 0.0038176  /  test loss : 0.5129804
+           train acc : 0.9998000  /  test acc : 0.8193333
+epoch 20 - train loss : 0.0157634  /  test loss : 0.7170813
+           train acc : 0.9936000  /  test acc : 0.7960000
+epoch 30 - train loss : 0.0014185  /  test loss : 0.6033950
+           train acc : 1.0000000  /  test acc : 0.8213333
+epoch 40 - train loss : 0.0001382  /  test loss : 0.5915047
+           train acc : 1.0000000  /  test acc : 0.8226667
+epoch 50 - train loss : 0.0001032  /  test loss : 0.6030166
+           train acc : 1.0000000  /  test acc : 0.8220000
+epoch 60 - train loss : 0.0000787  /  test loss : 0.6088800
+           train acc : 1.0000000  /  test acc : 0.8233333
+epoch 70 - train loss : 0.0000650  /  test loss : 0.6152311
+           train acc : 1.0000000  /  test acc : 0.8220000
+epoch 80 - train loss : 0.0000443  /  test loss : 0.6179250
+           train acc : 1.0000000  /  test acc : 0.8180000
+epoch 90 - train loss : 0.0000381  /  test loss : 0.6278344
+           train acc : 1.0000000  /  test acc : 0.8186667
+epoch 100 - train loss : 0.0000299  /  test loss : 0.6323727
+           train acc : 1.0000000  /  test acc : 0.8200000
+@@@@@@@ save model : epoch 100
+training complete! - calculation time : 23.06200385093689   seconds
+
+
+[Training]MAF_0db_20.0ms
+0db MAF data shape  -  20.0 ms
+train set : torch.Size([5000, 1, 200]) torch.Size([5000, 5])
+test set : torch.Size([1500, 1, 200]) torch.Size([1500, 5])
+epoch 0 - train loss : 0.5862432  /  test loss : 1.0051252
+           train acc : 0.6290000  /  test acc : 0.2000000
+@@@@@@@ save model : epoch 0
+epoch 10 - train loss : 0.0087306  /  test loss : 0.5504944
+           train acc : 0.9978000  /  test acc : 0.8046667
+epoch 20 - train loss : 0.0338119  /  test loss : 0.8312155
+           train acc : 0.9862000  /  test acc : 0.7893333
+epoch 30 - train loss : 0.0004230  /  test loss : 0.5886795
+           train acc : 1.0000000  /  test acc : 0.8173333
+epoch 40 - train loss : 0.0001668  /  test loss : 0.5951728
+           train acc : 1.0000000  /  test acc : 0.8180000
+epoch 50 - train loss : 0.0001260  /  test loss : 0.6109720
+           train acc : 1.0000000  /  test acc : 0.8213333
+epoch 60 - train loss : 0.0000947  /  test loss : 0.6213918
+           train acc : 1.0000000  /  test acc : 0.8200000
+epoch 70 - train loss : 0.0000775  /  test loss : 0.6271995
+           train acc : 1.0000000  /  test acc : 0.8193333
+epoch 80 - train loss : 0.0000522  /  test loss : 0.6329299
+           train acc : 1.0000000  /  test acc : 0.8193333
+epoch 90 - train loss : 0.0000426  /  test loss : 0.6440771
+           train acc : 1.0000000  /  test acc : 0.8200000
+epoch 100 - train loss : 0.0000324  /  test loss : 0.6468922
+           train acc : 1.0000000  /  test acc : 0.8186667
+@@@@@@@ save model : epoch 100
+training complete! - calculation time : 23.03449296951294   seconds
+
+
+[Training]MAF_-5db_20.0ms
+-5db MAF data shape  -  20.0 ms
+train set : torch.Size([5000, 1, 200]) torch.Size([5000, 5])
+test set : torch.Size([1500, 1, 200]) torch.Size([1500, 5])
+epoch 0 - train loss : 0.5960914  /  test loss : 1.0050952
+           train acc : 0.6210000  /  test acc : 0.2000000
+@@@@@@@ save model : epoch 0
+epoch 10 - train loss : 0.0072238  /  test loss : 0.5441992
+           train acc : 0.9988000  /  test acc : 0.7993333
+epoch 20 - train loss : 0.0004340  /  test loss : 0.5343794
+           train acc : 1.0000000  /  test acc : 0.8106667
+epoch 30 - train loss : 0.0002546  /  test loss : 0.5551258
+           train acc : 1.0000000  /  test acc : 0.8093333
+epoch 40 - train loss : 0.0001574  /  test loss : 0.5699605
+           train acc : 1.0000000  /  test acc : 0.8093333
+epoch 50 - train loss : 0.0001190  /  test loss : 0.5849387
+           train acc : 1.0000000  /  test acc : 0.8113333
+epoch 60 - train loss : 0.0000887  /  test loss : 0.5957953
+           train acc : 1.0000000  /  test acc : 0.8066667
+epoch 70 - train loss : 0.0000739  /  test loss : 0.6097783
+           train acc : 1.0000000  /  test acc : 0.8053333
+epoch 80 - train loss : 0.0000511  /  test loss : 0.6175596
+           train acc : 1.0000000  /  test acc : 0.8073333
+epoch 90 - train loss : 0.0000430  /  test loss : 0.6285543
+           train acc : 1.0000000  /  test acc : 0.8073333
+epoch 100 - train loss : 0.0000331  /  test loss : 0.6380575
+           train acc : 1.0000000  /  test acc : 0.8073333
+@@@@@@@ save model : epoch 100
+training complete! - calculation time : 22.953763961791992   seconds
+
+
+[Training]MAF_-10db_20.0ms
+-10db MAF data shape  -  20.0 ms
+train set : torch.Size([5000, 1, 200]) torch.Size([5000, 5])
+test set : torch.Size([1500, 1, 200]) torch.Size([1500, 5])
+epoch 0 - train loss : 0.6283620  /  test loss : 1.0045353
+           train acc : 0.6020000  /  test acc : 0.2000000
+@@@@@@@ save model : epoch 0
+epoch 10 - train loss : 0.0040944  /  test loss : 0.6190313
+           train acc : 0.9998000  /  test acc : 0.7780000
+epoch 20 - train loss : 0.0004367  /  test loss : 0.6246764
+           train acc : 1.0000000  /  test acc : 0.7900000
+epoch 30 - train loss : 0.0002745  /  test loss : 0.6482557
+           train acc : 1.0000000  /  test acc : 0.7893333
+epoch 40 - train loss : 0.0001631  /  test loss : 0.6686540
+           train acc : 1.0000000  /  test acc : 0.7906667
+epoch 50 - train loss : 0.0001234  /  test loss : 0.6849585
+           train acc : 1.0000000  /  test acc : 0.7900000
+epoch 60 - train loss : 0.0000915  /  test loss : 0.6980127
+           train acc : 1.0000000  /  test acc : 0.7933333
+epoch 70 - train loss : 0.0000748  /  test loss : 0.7120105
+           train acc : 1.0000000  /  test acc : 0.7866667
+epoch 80 - train loss : 0.0000529  /  test loss : 0.7202348
+           train acc : 1.0000000  /  test acc : 0.7880000
+epoch 90 - train loss : 0.0000430  /  test loss : 0.7334659
+           train acc : 1.0000000  /  test acc : 0.7880000
+epoch 100 - train loss : 0.0000337  /  test loss : 0.7463713
+           train acc : 1.0000000  /  test acc : 0.7846667
+@@@@@@@ save model : epoch 100
+training complete! - calculation time : 22.833419799804688   seconds
+
+
+[Training]MAF_-15db_20.0ms
+-15db MAF data shape  -  20.0 ms
+train set : torch.Size([5000, 1, 200]) torch.Size([5000, 5])
+test set : torch.Size([1500, 1, 200]) torch.Size([1500, 5])
+epoch 0 - train loss : 0.6756284  /  test loss : 1.0057049
+           train acc : 0.5664000  /  test acc : 0.2000000
+@@@@@@@ save model : epoch 0
+epoch 10 - train loss : 0.0033533  /  test loss : 0.7403467
+           train acc : 1.0000000  /  test acc : 0.7313333
+epoch 20 - train loss : 0.0004666  /  test loss : 0.7905041
+           train acc : 1.0000000  /  test acc : 0.7366667
+epoch 30 - train loss : 0.0002861  /  test loss : 0.8206625
+           train acc : 1.0000000  /  test acc : 0.7353333
+epoch 40 - train loss : 0.0001692  /  test loss : 0.8512905
+           train acc : 1.0000000  /  test acc : 0.7326667
+epoch 50 - train loss : 0.0001301  /  test loss : 0.8722204
+           train acc : 1.0000000  /  test acc : 0.7326667
+epoch 60 - train loss : 0.0000942  /  test loss : 0.8912776
+           train acc : 1.0000000  /  test acc : 0.7320000
+epoch 70 - train loss : 0.0000764  /  test loss : 0.9082504
+           train acc : 1.0000000  /  test acc : 0.7353333
+epoch 80 - train loss : 0.0000544  /  test loss : 0.9212392
+           train acc : 1.0000000  /  test acc : 0.7313333
+epoch 90 - train loss : 0.0000452  /  test loss : 0.9371334
+           train acc : 1.0000000  /  test acc : 0.7333333
+epoch 100 - train loss : 0.0000347  /  test loss : 0.9479307
+           train acc : 1.0000000  /  test acc : 0.7320000
+@@@@@@@ save model : epoch 100
+training complete! - calculation time : 23.168351411819458   seconds
+
+
+[Training]MAF_-20db_20.0ms
+-20db MAF data shape  -  20.0 ms
+train set : torch.Size([5000, 1, 200]) torch.Size([5000, 5])
+test set : torch.Size([1500, 1, 200]) torch.Size([1500, 5])
+epoch 0 - train loss : 0.7503352  /  test loss : 1.0030862
+           train acc : 0.5040000  /  test acc : 0.2000000
+@@@@@@@ save model : epoch 0
+epoch 10 - train loss : 0.0020308  /  test loss : 0.9541949
+           train acc : 1.0000000  /  test acc : 0.6566667
+epoch 20 - train loss : 0.0005155  /  test loss : 1.0210416
+           train acc : 1.0000000  /  test acc : 0.6520000
+epoch 30 - train loss : 0.0003122  /  test loss : 1.0664508
+           train acc : 1.0000000  /  test acc : 0.6513333
+epoch 40 - train loss : 0.0001845  /  test loss : 1.1043430
+           train acc : 1.0000000  /  test acc : 0.6533333
+epoch 50 - train loss : 0.0001406  /  test loss : 1.1386150
+           train acc : 1.0000000  /  test acc : 0.6540000
+epoch 60 - train loss : 0.0001048  /  test loss : 1.1568241
+           train acc : 1.0000000  /  test acc : 0.6533333
+epoch 70 - train loss : 0.0000801  /  test loss : 1.1833422
+           train acc : 1.0000000  /  test acc : 0.6500000
+epoch 80 - train loss : 0.0000564  /  test loss : 1.1953130
+           train acc : 1.0000000  /  test acc : 0.6526667
+epoch 90 - train loss : 0.0000477  /  test loss : 1.2231366
+           train acc : 1.0000000  /  test acc : 0.6540000
+epoch 100 - train loss : 0.0000371  /  test loss : 1.2326325
+           train acc : 1.0000000  /  test acc : 0.6500000
+@@@@@@@ save model : epoch 100
+training complete! - calculation time : 23.061663150787354   seconds
+
+
